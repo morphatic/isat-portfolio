@@ -70,7 +70,7 @@ All of the syllabi for courses I have taught can be downloaded below. In many ca
 
 #### Fall 2006
 * ISAT 340 (co-taught w/ Marchal; no syllabus)
-* ISAT 348
+* [ISAT 348](/supporting_materials/syllabi/2006_3/348_Syllabus.doc)
 
 #### Pre-JMU (NJIT)
 
