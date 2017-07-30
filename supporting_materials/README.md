@@ -24,6 +24,55 @@ All of the syllabi for courses I have taught can be downloaded below. In many ca
 #### Fall 2012
 #### Spring 2012
 #### Fall 2011
+#### Spring 2011
+#### Fall 2010
+#### Summer 2010
+
+#### Spring 2010
+* ISAT 252
+* ISAT 348 (2 students; no syllabus)
+* ISAT 499C (no syllabus; Ramsey; Best Honors Thesis)
+* ISAT 493 (no syllabus; Rapp; Integration Award)
+* ISAT 640 (Malta)
+
+#### Fall 2009
+* GISAT 160
+* ISAT 340
+* ISAT 348
+* ISAT 480 (2 sections; 1 student each; no syllabi?)
+* ISAT 499B (no syllabus)
+* ISAT 492 (no syllabus)
+
+#### Spring 2009
+* ISAT 252
+* ISAT 348
+* ISAT 493
+
+#### Fall 2008
+* ISAT 340
+* ISAT 348
+* ISAT 480 (1 student; no syllabus?)
+* ISAT 492 (no syllabus)
+
+#### Spring 2008
+* ISAT 252
+* ISAT 348
+
+#### Fall 2007
+* ISAT 340
+* ISAT 348
+
+#### Spring 2007
+* ISAT 252
+* ISAT 348
+* ISAT 440 (co-taught w/ McGraw; no syllabus)
+* ISAT 493 (co-led with A. Henriksen; no syllabus)
+
+#### Fall 2006
+* ISAT 340 (co-taught w/ Marchal; no syllabus)
+* ISAT 348
+
+#### Pre-JMU (NJIT)
 
 ### By Course
 
