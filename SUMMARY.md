@@ -1,6 +1,7 @@
 # Summary
 
-* [Overview](README.md)
+* [Introduction & Organization](README.md)
+* [Grand Overview](overview.md)
 * [Teaching](teaching.md)
  * [Narrative](teaching_narrative.md)
  * [Evidence](teaching_evidence.md)
