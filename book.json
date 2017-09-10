@@ -3,7 +3,7 @@
     "author": "Morgan C. Benton",
     "language": "en-US",
     "plugins": [
-        "toggle2",
+        //"toggle2",
         "back-to-top-button"
     ],
     "pdf": {
