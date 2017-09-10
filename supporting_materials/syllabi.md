@@ -1,6 +1,6 @@
 # Syllabi
 
-All of the syllabi for courses I have taught can be downloaded below. In many cases, there is a website from which the PDF version of the syllabus was created, and which is generally of higher quality. Syllabi are organized by semester, and by course. The per semester organization is in reverse chronological order, to allow reviewers to get a quick overview of the rhythm and diversity of courses I taught. The per course organization is designed to allow reviewers to quickly assess the evolution of syllabi in specific courses over time.
+All of the syllabi for courses I have taught can be downloaded below. In many cases, there is a website from which the PDF version of the syllabus was created, and which is generally (but not always) of higher quality. Syllabi are organized by semester. The per semester organization is in reverse chronological order, to allow reviewers to get a quick overview of the rhythm and diversity of courses I taught. If there's a "no syllabus" note, it does not mean that there was not a syllabus for the course, just that I could not locate the actual file.
 
 ## By Semester
 
