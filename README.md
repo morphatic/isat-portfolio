@@ -8,15 +8,15 @@ The portfolio is organized as follows:
 
 * **[Introduction & Organization](/README.md)**<br>The document you're reading now.
 * **[Grand Overview](overview.md)**<br>Connects the dots. Articulates how the total is greater than the sum of the parts.
-* **[Teaching Section](teaching.md)**
- * **[Teaching Narrative](teaching_narrative.md)**<br>My teaching philosophy and the evolution of my craft as an instructor highlighting major lessons learned.
- * **[Teaching Evidence](teaching_evidence.md)**<br>Links to supporting resources organized according to the PAC guidelines.
-* **[Scholarship Section](scholarship.md)**
- * **[Scholarship Narrative](scholarship_narrative.md)**<br>Shows how all of the puzzle pieces fit together, and tells the story of my contributions to knowledge.
- * **[Scholarship Evidence](scholarship_evidence.md)**<br>Links to supporting resources organized according to the PAC guidelines.
-* **[Service Section](service.md)**
- * **[Service Narrative](service_narrative.md)**<br>Making clear how I've applied my gifts in service to JMU and the broader community.
- * **[Service Evidence](service_evidence.md)**<br>Links to supporting resources organized according to the PAC guidelines.
+* **[Teaching Section](/teaching/teaching.md)**
+ * **[Teaching Narrative](/teaching/teaching_narrative.md)**<br>My teaching philosophy and the evolution of my craft as an instructor highlighting major lessons learned.
+ * **[Teaching Evidence](/teaching/teaching_evidence.md)**<br>Links to supporting resources organized according to the PAC guidelines.
+* **[Scholarship Section](/scholarhsip/scholarship.md)**
+ * **[Scholarship Narrative](/scholarhsip/scholarship_narrative.md)**<br>Shows how all of the puzzle pieces fit together, and tells the story of my contributions to knowledge.
+ * **[Scholarship Evidence](/scholarhsip/scholarship_evidence.md)**<br>Links to supporting resources organized according to the PAC guidelines.
+* **[Service Section](/service/service.md)**
+ * **[Service Narrative](/service/service_narrative.md)**<br>Making clear how I've applied my gifts in service to JMU and the broader community.
+ * **[Service Evidence](/service/service_evidence.md)**<br>Links to supporting resources organized according to the PAC guidelines.
 * **[Supporting Materials](supporting-materials.md)**<br>Lists of downloadable artifacts used to support this application, organized by category.
  * **[Syllabi](/supporting_materials/syllabi.md)**<br>Links to course websites and PDF/Word versions of nearly all of my syllabi since 2006.
  * **[Publications](/supporting_materials/publications.md)**<br>A full, categorized list of citations, with links to PDF full-text versions of the great majority of my scholarly work.
