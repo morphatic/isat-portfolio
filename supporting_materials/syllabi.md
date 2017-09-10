@@ -5,7 +5,7 @@ All of the syllabi for courses I have taught can be downloaded below. In many ca
 ## By Semester
 
 ### Spring 2017
-* ISAT 252 (2 sections; 53 students)
+* ISAT 252 [site](https://code4your.life/syllabi/isat-252/2017-spring/)|[pdf](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2017_1/2017_1_ISAT_252_0001_01_Syllabus.pdf) (2 sections; 53 students)
 * ISAT 440/CS 330
 * ISAT 480--The Fueled Project (co-taught w/ Gabriele)
 * ISAT 480
