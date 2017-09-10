@@ -1,7 +1,15 @@
 # Summary
 
-* [Introduction](README.md)
-* [First Chapter](chapter1.md)
+* [Overview](README.md)
+* [Teaching](teaching.md)
+ * [Narrative](teaching_narrative.md)
+ * [Evidence](teaching_evidence.md)
+* [Scholarship](scholarship.md)
+ * [Narrative](scholarship_narrative.md)
+ * [Evidence](scholarship_evidence.md)
+* [Service](service.md)
+ * [Narrative](service_narrative.md)
+ * [Evidence](service_evidence.md)
 * [Supporting Materials](supporting-materials.md)
  * [Syllabi](supporting_materials/syllabi.md)
  * [Publications](supporting_materials/publications.md)
