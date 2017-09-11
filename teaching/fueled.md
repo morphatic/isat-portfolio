@@ -1,5 +1,6 @@
 # The Fueled Project
 
+![](http://www.jmu.edu/fueled/_images/fueled-logo.png)
 > **FUELED is a collaborative, student run project focused on bringing fresh, local food to JMU students and business to the Harrisonburg community through an expansion of connectivity and experimental growth.**
 
 (See the [JMU Fueled Project on the JMU website](http://www.jmu.edu/fueled/).)
