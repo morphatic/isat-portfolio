@@ -4,21 +4,21 @@ Participating and/or presenting in conferences and workshops focused primarily o
 
 * **[Presentation at HASTAC May 2016](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/publications/2016--HASTAC--CYOG.pdf)**<br>Benton, M. C. & Radziwill, N. M., 2016: Choose Your Own Grade: Instructional Civil Disobedience. HASTAC, Phoenix AZ, May 12.
 
-* **Invited presentation at IAJC/ISAM 2014**<br>Radziwill, N., and Benton, M. 2014. The 10 Principles: A New Paradigm for Collaboration & Innovation, IAJC/ISAM Annual Meeting, 2014 Sep 26.
+* **[Invited presentation at IAJC/ISAM 2014](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/misc/2014--IAJC-ISAM--10PrinciplesANewParadigm.pdf)**<br>Radziwill, N., and Benton, M. 2014. The 10 Principles: A New Paradigm for Collaboration & Innovation, IAJC/ISAM Annual Meeting, 2014 Sep 26.
 
-* **Presentation at ATMAE 2013**<br>Radziwill, N. M. & Benton, M. C., 2013: The Burning Mind Project - Creating a Culture of Radical Innovation in Technology Education. ATMAE Annual Meeting, New Orleans LA, November 21.
+* **[Presentation at ATMAE 2013](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/misc/2013--ATMAE--BurningMindProject.pdf)**<br>Radziwill, N. M. & Benton, M. C., 2013: The Burning Mind Project - Creating a Culture of Radical Innovation in Technology Education. ATMAE Annual Meeting, New Orleans LA, November 21.
 
 * **Presentation at Burning Man August 2013**<br>Benton, M. C., 2013: I Will F You Up! Getting Rid of Grades. Transforming Learning Conference, Black Rock City NV, August 30.
 
-* **Presentation with N. Radziwill at 2013 CFI May Symposium**<br>Benton, M. C. & Radziwill, N. M., 2013: Less Work, Better Learning, More Fun! Effective Strategies for Teaching Without Grades. JMU Center for Faculty Innovation, Harrisonburg VA, May 6.
+* **[Presentation with N. Radziwill at 2013 CFI May Symposium](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/misc/2013--CFI--LessWorkBetterLearningMoreFun.pdf)**<br>Benton, M. C. & Radziwill, N. M., 2013: Less Work, Better Learning, More Fun! Effective Strategies for Teaching Without Grades. JMU Center for Faculty Innovation, Harrisonburg VA, May 6.
 
 * **Presentation with N. Radziwill at Burning Man HQ, March 2013**<br>Benton, M. C. & Radziwill, N. M., 2013: Bringing the 10 Principles to the Classroom. Burning Man Project Headquarters, San Francisco CA, March 6.
 
-* **Guest Lecture on Grading given in 2012**<br>Benton, M. 2012. Grades Suck. A guest lecture given in multiple courses on critical thinking and sociology of education.
+* **[Guest Lecture on Grading given in 2012](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/misc/2012--Pappas--GradesSuckGuestLecture.pdf)**<br>Benton, M. 2012. Grades Suck. A guest lecture given in multiple courses on critical thinking and sociology of education.
 
-* **Provost's Task Force on Academic Rigor, May 2011**<br>I participated in a 2-day workshop in which faculty from all over JMU were brought together to discuss the question "What is academic rigor?"
+* **[Provost's Task Force on Academic Rigor, May 2011](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/misc/2011--MadisonInstituteOnAcademicRigor.pdf)**<br>I participated in a 2-day workshop in which faculty from all over JMU were brought together to discuss the question "What is academic rigor?"
 
-* **Presentation at ISAT Mini-Symposium, May 2011**<br>Benton, M. 2013. Beyond Dogma: Tales of a Grading Heretic, 2011 ISAT Mini-Symposium on Innovative Teaching Methods. 2011 May 13.
+* **[Presentation at ISAT Mini-Symposium, May 2011](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/misc/2011--ISAT--BeyondDogma.pdf)**<br>Benton, M. 2013. Beyond Dogma: Tales of a Grading Heretic, 2011 ISAT Mini-Symposium on Innovative Teaching Methods. 2011 May 13.
 
 ## Pre-Tenure
 
