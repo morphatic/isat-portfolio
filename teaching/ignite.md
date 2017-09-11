@@ -4,7 +4,7 @@ I am constantly attempting to push the envelope when it comes to creating new an
 
 ## IGNITE!
 
-**Read the full proposal.**
+**[Read the full proposal.](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/misc/2013--VentureWell--IGNITEProposal_BentonRadziwill.pdf)**
 
 This $50,000 grant would have supported the pilot and launch of IGNITE, a one-year immersive experience for undergraduate seniors to live and work together in San Francisco with their professors, developing entrepreneurial solutions to pressing social problems leveraging intelligent software, data mining and emergent technologies. Administered by Dr. Radziwill and myself, this course sequence planned to unite students from inherently multidisciplinary areas such as biotechnology, environmental science, and alternative energy. Through IGNITE, E-Teams will serve as the nexus for senior year coursework, an internship, and a senior capstone project, aiming to commercialize developments while embracing social responsibility. With over $13B in annual venture capital activity, San Francisco is an ideal location to leverage established co-working spaces, embed with existing technology startups, and model the attitudes and behaviors needed to launch successful ventures (especially for attracting women into careers in technology). The program’s long-term goals are to:
 
@@ -16,7 +16,7 @@ _NOTE: This grant proposal was complete and ready to submit, but was blocked by 
 
 ## HCO<sup>3</sup>
 
-**Read the full proposal.**
+**[Read the full proposal.](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/misc/2015--VentureWell--HCO3Proposal_BentonRadziwill.pdf)**
 
 Many students at JMU develop entrepreneurial solutions to pressing social and technological problems as part of their required capstone experience. These solutions often leverage sophisticated software, data mining, and emergent technologies. Unfortunately, students are not prepared to turn their ideas into real businesses upon graduation, and miss the chance to create opportunities for both themselves and their local economies.
 
