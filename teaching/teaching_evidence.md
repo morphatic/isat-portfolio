@@ -54,4 +54,4 @@ If the [teaching narrative](/teaching/teaching_narrative.md) describes the fores
     8. Professional development:
         * [SXSWEdu, HASTAC, Digital Raign](/teaching/conferences.md)
         * [JMU Academic Rigor Task Force](/teaching/rigor.md)
-    9. 
+    9. Instructional and/or teaching team leadership:
