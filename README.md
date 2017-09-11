@@ -11,9 +11,9 @@ The portfolio is organized as follows:
 * **[Teaching Section](/teaching/teaching.md)**
  * **[Teaching Narrative](/teaching/teaching_narrative.md)**<br>My teaching philosophy and the evolution of my craft as an instructor highlighting major lessons learned.
  * **[Teaching Evidence](/teaching/teaching_evidence.md)**<br>Links to supporting resources organized according to the PAC guidelines.
-* **[Scholarship Section](/scholarhsip/scholarship.md)**
- * **[Scholarship Narrative](/scholarhsip/scholarship_narrative.md)**<br>Shows how all of the puzzle pieces fit together, and tells the story of my contributions to knowledge.
- * **[Scholarship Evidence](/scholarhsip/scholarship_evidence.md)**<br>Links to supporting resources organized according to the PAC guidelines.
+* **[Scholarship Section](/scholarship/scholarship.md)**
+ * **[Scholarship Narrative](/scholarship/scholarship_narrative.md)**<br>Shows how all of the puzzle pieces fit together, and tells the story of my contributions to knowledge.
+ * **[Scholarship Evidence](/scholarship/scholarship_evidence.md)**<br>Links to supporting resources organized according to the PAC guidelines.
 * **[Service Section](/service/service.md)**
  * **[Service Narrative](/service/service_narrative.md)**<br>Making clear how I've applied my gifts in service to JMU and the broader community.
  * **[Service Evidence](/service/service_evidence.md)**<br>Links to supporting resources organized according to the PAC guidelines.
