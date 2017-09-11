@@ -1,6 +1,23 @@
 # Capstones and Student Research
 
-I am one of the most active capstone advisors in all of ISAT.
+I am one of the most active capstone advisors in all of ISAT. In eleven years I have mentored:
+
+* 34 Projects
+* 62 Students
+* 2 Best Honors Theses
+* 1 ISAT Integration Award
+* 1 Best IA Thesis Award
+* 1 Successful business launched from capstone
+* 1 NCUR publication
+* 1 Refereed journal publication
+
+That's an average of 3 projects and 6 students per year. The ISAT capstone project is my favorite part of the major. Although it consumes a considerable amount of time and energy, I truly enjoy the opportunity to work one-on-one with students and build things that can have a lasting impact.
+
+For example, the work I did over several years with several students on the UMatter2Us project has been incorporated into the [custom courseware](/teaching/courseware.md) that I use to teach all of my classes currently.
+
+I have been an active participant in the evolution of the capstone into a 4-semester sequence since the fall of 2013 when the first experimental version of what we now call ISAT 490 was run. I have visited Dr. Bachmann and Dr. Conley's ISAT 490 classes frequently, and have actively participated in discussions about how to improve the 490-491 sequence.
+
+I was also a member of the committee led by Tom Benzing that examined the ISAT capstone workload balance among faculty during the 2016-17 academic year.
 
 ## Chronological List of Capstone Projects
 
@@ -24,7 +41,7 @@ I am one of the most active capstone advisors in all of ISAT.
 9. Palmquist, R. (2010) OnTrack – An Online Academic Planning Tool for ISAT Majors.
 
 10. Ramsey, D., and Rapp, B. (2010) Development of a Residential Site Assessment and Economic Feasibility Calculator for Behind-the-Meter Wind Energy Generation in Virginia.
-    * **Best Honors Thesis**
+    * **Best Honors Thesis Award**
     * **ISAT Integration Award**
 
 11. Jones, C., and Long, A. (2011) Harrisonburg – Department of Public Transportation Itinerary Planner
