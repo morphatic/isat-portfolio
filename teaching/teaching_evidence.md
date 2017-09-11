@@ -10,3 +10,10 @@ If the [teaching narrative](/teaching/teaching_narrative.md) describes the fores
         * [Reputation on StackOverflow](/teaching/stackoverflow.md)
         * [Morphatic--My Blog](/teaching/blog.md)
     3. Acceptable student evaluations:
+        * [Student Narratives](/teaching/narratives.md)
+        * [Course Evaluations](/teaching/evaluations.md)
+    4. Commitment to effective student advising:
+        * [Capstone Projects](/teaching/capstones.md)
+    5. Positivity and availability:
+        * [Capstone Projects](/teaching/capstones.md)
+        * [Hacking Sessions](/teaching/hacking.md)
