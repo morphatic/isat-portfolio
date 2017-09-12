@@ -6,7 +6,8 @@
         "toggle2",
         "back-to-top-button",
         "ga",
-        "offline"
+        "offline",
+        "katex"
     ],
     "pluginsConfig": {
         "ga": {
