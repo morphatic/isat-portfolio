@@ -5,7 +5,8 @@
     "plugins": [
         "toggle2",
         "back-to-top-button",
-        "ga"
+        "ga",
+        "offline"
     ],
     "pluginsConfig": {
         "ga": {
