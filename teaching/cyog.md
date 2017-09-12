@@ -35,15 +35,15 @@ Despite the fact that many or most college professors have passed one or more st
 
 ## GPA is NOT a Robust Measure
 
-John Vickers, a member of the Philosophy Department at Claremont Graduate University, wrote a fascinating paper in which he demonstrated a number of structural problems with the calculation of GPA (Vickers, 2000).  First, since GPA masks many of the properties of the courses incorporated into the calculation, it is not an adequate measure for comparison of students.  For example, a student who takes ten easy courses shouldn’t be assessed in the same way as a student who takes ten very challenging courses, yet GPA masks this.  As Vickers points out, “this has the undesirable effect of encouraging students to avoid difficult courses in favor of easy ones in the end of maximizing the GPA” (p142).  Second, GPA is not sensitive to the number of courses a person has taken, so that it is possible, though not logical, to compare two students based on GPA, one of which as taken only a few courses, and one who has taken many.  Likewise, students who seek to make the most of their college experience by taking as many courses as possible in a wide range of subject areas may find that their GPA suffers.  So here we see that GPA has the effect of discouraging students to take challenging courses or to experiment with a broad range of subject areas.
+John Vickers, a member of the Philosophy Department at Claremont Graduate University, wrote a fascinating paper in which he demonstrated a number of structural problems with the calculation of GPA ([Vickers, 2000](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/misc/2000-Vickers-Justice-and-Truth-in-Grades-and-their-Averages.pdf)).  First, since GPA masks many of the properties of the courses incorporated into the calculation, it is not an adequate measure for comparison of students.  For example, a student who takes ten easy courses shouldn’t be assessed in the same way as a student who takes ten very challenging courses, yet GPA masks this.  As Vickers points out, “this has the undesirable effect of encouraging students to avoid difficult courses in favor of easy ones in the end of maximizing the GPA” (p142).  Second, GPA is not sensitive to the number of courses a person has taken, so that it is possible, though not logical, to compare two students based on GPA, one of which as taken only a few courses, and one who has taken many.  Likewise, students who seek to make the most of their college experience by taking as many courses as possible in a wide range of subject areas may find that their GPA suffers.  So here we see that GPA has the effect of discouraging students to take challenging courses or to experiment with a broad range of subject areas.
 
 More insidious than these effects, is an intrinsic property of GPAs: the mere fact that the means of their calculation is not standard across institutions means that any ranking of students based upon them is inherently unreliable.  While I won’t go into the details of Vickers’ argument, he demonstrates that if two students John and Mary take the same three classes and receive the following grades A, A, F, and C, C, C respectively, depending on how the GPA is calculated sometimes John ranks higher than Mary, sometimes Mary ranks higher than John, and sometimes they are equal.  It is logically inconsistent to stipulate that John is both better and worse than Mary, but that is an inescapable property of using GPA to compare them.  Any professor who has ever altered the weighting scheme of grades in a course mid-semester (see the table in the previous section) is susceptible to inaccuracies of this nature.
 
 This also means that any graduate programs or employers who sort and select students based on GPA are likely to be making errors in judgment, and possibly treating students unfairly.  It should be noted, that this analysis assumes a perfect world in which every instructor is perfectly impartial and absolutely consistent in the manner and means of assigning a grade to each student.  In practice, we know that this is not the case as the next section will describe.
 
-Professors are Inconsistent in How They Assign Grades
+## Professors are Inconsistent in How They Assign Grades
 
-Paul Diederich published a book in 1974 called Measuring Growth in English in which he related the results of an experiment that he conducted.  Fifty-three college professors in six different fields were asked to read 300 student essays and assign each one a rating on a scale of 1-9, low to high.  He found that 101 essays “received every grade from 1 to 9 [the entire range possible]; 94% received either seven, eight, or nine different grades” (p6).  In short, there was very little agreement among college professors as to what constitutes a “high quality” essay.  Their markings were inconsistent.
+Paul Diederich published a book in 1974 called _Measuring Growth in English_ in which he related the results of an experiment that he conducted.  Fifty-three college professors in six different fields were asked to read 300 student essays and assign each one a rating on a scale of 1-9, low to high.  He found that 101 essays “received every grade from 1 to 9 [the entire range possible]; 94% received either seven, eight, or nine different grades” (p6).  In short, there was very little agreement among college professors as to what constitutes a “high quality” essay.  Their markings were inconsistent.
 
 From personal experience, many of us know that even the same professor can be inconsistent in the assessment of student work.  A professor’s perspective on quality is likely to change between reading the first essay and the last essay.  Some professors attempt to protect themselves from fatigue or bias by masking the names of the students when they are doing their grading, by making at least two passes through the papers, or other means of assuring fairness, but we don’t always have that much time and/or energy.  And while few would argue that professors do not have the ability to make an expert judgment on the quality of student work, the means by which they do it breaks with the best practice of researchers doing qualitative analysis.
 
@@ -51,9 +51,11 @@ In any publishable scientific work in which qualitative expert judgments are use
 
 Students are intuitively aware of the lack of consistency in how grades are assigned which is why many have given up on the effort to determine for themselves the quality of their own work.  The uncertainty of how a particular professor will evaluate a particular piece of student work leads to a great deal of anxiety which is detrimental to the learning of students.  The field of psychometrics is dedicated to eliminating such uncertainty in how academic ability is assessed.
 
-What Psychometricians Do
+## What Psychometricians Do
 
 Since there is no way to observe directly the academic ability of an individual on any given task, we use proxy tasks such as test questions, or essays or assignments to guess at what a student “really knows” or can do.  The field of psychometrics aims to make these observations as scientific and reliable as possible.  Classical test theory describes a property of test questions called “discrimination.”  Using the classical definition, discrimination is the power of any given question to discriminate between test takers who have mastered a particular ability or not, and is defined by the following formula:
+
+![](http://tenure.umatter2.us/wp-content/uploads/2011/09/Screen-shot-2011-09-12-at-12.39.41-AM.png)
 
 In which U is the number of test takers in the upper quartile who answered a given question correctly, and L is the number of test takers in the bottom quartile who answered that question correctly.  Thus if the same number of high and low scorers got the question correct, the question would have a discrimination score of zero, whereas if all of the high scorers got it right and all of the low scorers got it wrong, the discrimination would be one.  If more of the low scorers got it right than high scorers the discrimination would be negative and indicate a flawed or “trick” question.  Some of the online learning management systems such as Blackboard will actually calculate a discrimination value for tests delivered online in this fashion.
 
@@ -61,12 +63,17 @@ The major problem with classical test theory is that in the given scenario, ther
 
 IRT defines what is referred to as an Item Response Function (IRF).  The most common IRF used in professional testing scenarios is the three-parameter model which is defined as follows:
 
-In which pi(θ) is the probability that a test taker with ability θ will respond correctly to a question i.  The three parameters of the model are typically describes as follows:
+![](http://tenure.umatter2.us/wp-content/uploads/2011/09/threeparametermodel.png)
 
-a: discrimination parameter, defines the slope of the IRT curve
-b: difficulty parameter, defines left-right shift of the IRT curve
-c: guessing parameter, defines the y-intercept of the IRT curve
+In which $${ p }_{ i }(\theta )$$ is the probability that a test taker with ability $$\theta$$ will respond correctly to a question _i_.  The three parameters of the model are typically describes as follows:
+
+* a: discrimination parameter, defines the slope of the IRT curve
+* b: difficulty parameter, defines left-right shift of the IRT curve
+* c: guessing parameter, defines the y-intercept of the IRT curve
+
 And when graphed, typical IRT curves look as follows:
+
+![](http://tenure.umatter2.us/wp-content/uploads/2011/09/Screen-shot-2011-09-12-at-12.56.47-AM.png)
 
 Theta is the underlying ability that is being measured.  A theta of zero indicates that a test-taker is of average ability and the x-axis measures standard deviations above or below the mean.  The y-axis is the probability of a correct answer.  In the figure above, the curves to the left are easier than those to the right, meaning test takers with a lower theta will have a higher probability of a correct answer.  Steeper slopes indicate higher discrimination power.  When there is a probability that the test taker can guess the correct answer, as with a multiple choice question, the curve will intersect the y-axis in a non-zero position.
 
@@ -74,9 +81,9 @@ Using IRT, psychometricians are able to determine the quality of a test question
 
 Clearly such a level of rigor is not practical for classroom educators, nor is it necessary for professors to get a pretty good sense of how much their students have learned.  The distinction I make here is between test questions used for assessing students’ understanding and test questions used for assigning grades.  Test questions are wonderful for assessing understanding, but they are terrible for assigning grades because they do not have the reliability or accuracy of questions developed in a professional testing context.  But even if we could achieve such rigor with our test questions, grades are troublesome for other reasons.
 
-Grades Undermine Motivation to Learn
+## Grades Undermine Motivation to Learn
 
-It is not in question that grades motivate students to study.  However, what is important is not whether they motivate, but how they motivate.  Motivation researchers distinguish between two types of motivation: intrinsic and extrinsic.  People who are intrinsically motivated engage in a behavior for no other reason than the behavior is satisfying.  They need no external goal or reward and would engage in this behavior anyway regardless of how others tried to influence them.  Extrinsically motivated behavior, on the other hand, is engaged in for the sake of earning some form of reward, or avoiding some form of punishment.  Rewards and punishments can be intangible, such as praise or derision, or they can be tangible such as gold stars, money, or grades.  The effects of extrinsic rewards on learning have been studied extensively.
+It is not in question that grades motivate students to study.  However, what is important is not whether they motivate, but **_how_** they motivate.  Motivation researchers distinguish between two types of motivation: intrinsic and extrinsic.  People who are intrinsically motivated engage in a behavior for no other reason than the behavior is satisfying.  They need no external goal or reward and would engage in this behavior anyway regardless of how others tried to influence them.  Extrinsically motivated behavior, on the other hand, is engaged in for the sake of earning some form of reward, or avoiding some form of punishment.  Rewards and punishments can be intangible, such as praise or derision, or they can be tangible such as gold stars, money, or grades.  The effects of extrinsic rewards on learning have been studied extensively.
 
 Deci, Ryan, and Koester (2001) published a meta-analysis of 101 studies that looked at the relationship between the use of extrinsic rewards (i.e. grades) and a free-choice behavioral measure of intrinsic motivation, i.e. students’ proclivity to engage in content-related academic activity because they chose to.  Across all contingents, the tangible rewards had a large negative correlation (-0.34, p<0.05) with intrinsic motivation.  In particular, performance-contingent rewards (“rewards given explicitly for doing well at a task or for performing up to a specified standard”, p11), harmed the motivation of students who received the maximal reward (i.e. A+) to the tune of -0.15 (p<0.05), and had a devastating impact (-0.88, p<0.05) on students who did not receive the maximal reward (i.e. < A+).  That means, that as a result of receiving grades, even our best students have LESS desire to engage in content-related activities.
 
@@ -84,27 +91,28 @@ There is quite a bit more nuance in the discussion of intrinsic versus extrinsic
 
 Alfie Kohn in his extremely well-researched 1993 book Punished By Rewards explains several other good reasons to avoid the use of extrinsic motivators in the classroom, namely:
 
-Grades Punish
+* **Grades Punish**<br>
 The very act of distributing grades to a class means that you create “winners” and “losers” which creates a sense of anxiety in the classroom which is not supportive to learning.
-Grades Rupture Relationships
+* **Grades Rupture Relationships**<br>
 Students perceive the use of grades by an instructor as controlling, i.e. the instructor is trying to control their behavior.  Humans, at least Westerners, almost universally seek autonomy, and reject being controlled by others. The use of grades highlights the power disparity between students and professors.  It frequently stands in the way of open, honest and trusting communication between students and professors. It can lead to things like students hiding their lack of understanding for fear that the professor will develop an impression of them as “stupid” or unable to learn.
-Grades Ignore Reasons
+* **Grades Ignore Reasons**<br>
 When I was still an inexperienced instructor I used to establish strict policies for things like attendance, due dates, grading standards and the like.  I discovered in time that this was one way I protected myself from having to get to know anything about my students.  If you missed class, I didn’t have to know anything about the reason because I had a policy to cover the consequences of that event.  While this may be expedient for professors, I found that it was detrimental to creating a supportive and positive learning environment.
-Grades Discourage Risk-Taking
+* **Grades Discourage Risk-Taking**<br>
 “Is this going to be on the test?” is one of those questions at which professors cringe when they hear it.   Research has demonstrated that when students are overly focused on the grades the quality of their work, the creativity of their solutions, and their ability to see globally suffers.  They focus solely on trying to produce what the professor wants.  This is what Ken Bain refers to as “strategic learning” and it results in the production of what he calls “rote experts,” or people who can provide the textbook answer to any problem scenario, but can’t think outside the box.  What we really want, he says, are “adaptive experts” and grades interfere with their creation.
+
 If the goal of our efforts as educators is to create enthusiastic life-long learners and problem-solvers, these are critical considerations that we must acknowledge.  More recently I’ve uncovered some other lines of research that bring the use of grades into question.
 
-Brain Research and Positive Psychology
+## Brain Research and Positive Psychology
 
-I recently attended a talk by Dr. Barbara Fredrickson, author of the book Positivity in which she recounts her research that indicates that “experiencing positive emotions in a 3-to-1 ratio with negative ones leads people to a tipping point beyond which they naturally become more resilient to adversity and effortlessly achieve what they once could only imagine” (from the book jacket).  She cited her research which has found that positive emotion expands awareness, allowing people to see global patterns instead of discrete facts, fosters better memory for detail, engenders the ability to see more possibilities, to be more creative, to have higher performance, be more resilient, and to have a greater capacity for empathy.
+I recently attended a talk by Dr. Barbara Fredrickson, author of the book _Positivity_ in which she recounts her research that indicates that “experiencing positive emotions in a 3-to-1 ratio with negative ones leads people to a tipping point beyond which they naturally become more resilient to adversity and effortlessly achieve what they once could only imagine” (from the book jacket).  She cited her research which has found that positive emotion expands awareness, allowing people to see global patterns instead of discrete facts, fosters better memory for detail, engenders the ability to see more possibilities, to be more creative, to have higher performance, be more resilient, and to have a greater capacity for empathy.
 
 If grades can stimulate fear and anxiety in students, I hypothesize that the practice may inhibit some or all of the benefits of positive emotion that Fredrickson discusses.  On the other hand, her research suggests that adversity in a 1-to-3 ratio to positivity is necessary for a person to thrive.  It will be interesting to try to discover how to use grades effectively in this framework.  Regardless, there is a broad literature on the neurological impacts of stress on cognition and learning that support the notion that stress induced by grades may be detrimental to learning.
 
-The History of Grades
+## The History of Grades
 
 The last facet of my search that I’ll share here is my investigation into the history of grades.  Grades are such a fact-of-life in today’s schools that it seems that they must have always existed.  Quite to the contrary, grades, as currently used, didn’t gain widespread acceptance and use until the 19th century.  Reading accounts of the epistemological discussions of academics from the 17th to the 19th century in the US reveals that they wrestled with many of the same issues that I have brought up here.  It is easy for us to accept the current practice with a blind faith that since everybody uses grades, their validity and worth must have been proven at some point in our past.  I wanted to believe that someone somewhere had done the due diligence to establish grades as an effective and worthwhile practice in education.  As it turns out, it has never been done.  For excellent accounts I refer you to Mary Lovett Smallwood’s (1935) An Historical Study of Examinations and Grading Systems in Early American Universities, Laska and Juarez’ (1991) Grading and Marking in American Schools: Two Centuries of Debate, Finkelstein’s (1913) The Marking System in Theory and Practice, or the short, amusing and accessible address by Louise Witmer Cureton (1959) The History of Grading Practices.
 
-ISAT 252 Spring 2009–Choose-Your-Own-Grade
+## ISAT 252 Spring 2009–Choose-Your-Own-Grade
 
 In January of 2009 I told all of the students in my three sections of ISAT 252 that they would be allowed to choose their own semester grades with no strings attached.  The only requirement for the course was that students meet with me face-to-face at the end of the semester, present a portfolio of their work, and inform me of the grade they would like for me to report to the registrar.  I made it clear that they did not have to attend class, take any tests, read any chapters, or do any assignments of any kind.
 
@@ -112,30 +120,31 @@ On the other hand, I spent a great deal of time and energy working to convince t
 
 I set up a video camera in my office and every day after class I would talk about the experience, and, as such, kept a video journal of my experience.  I also video taped all of the exit interviews with the students and kept their end-of-semester portfolios for analysis.  Here are some of the things that I found:
 
-Attendance improved
+* **Attendance improved**<br>
 I was amazed to see that people actually showed up more with this new arrangement
-Engagement increased
+* **Engagement increased**<br>
 Students reported spending more time outside of class and worked harder on their programming assignments.  Class time was much more lively as students were much more proactive about asking how to solve problems with their programs.  I had as many as fifty students come to hacking sessions on Monday nights.
-Everyone took all of the tests
+* **Everyone took all of the tests**<br>
 Even though they weren’t required, everyone showed up to take the exams, even though they were given in the evening outside of class time.
-The quality of work increased
+* **The quality of work increased**<br>
 Sixteen out of the seventeen teams that semester turned in end of semester programming projects which were head-and-shoulders above previous semesters in terms of challenge, complexity, and quality.  Perhaps my favorite was called Robot Game, and was a video game complete with soundtrack, gravity, collisions that was built entirely by a student team that had never programmed before.  Users could even create their own custom levels for the game with their own music by using a special Excel spreadsheet format that the students had created.
-I learned more than I ever have
+* **I learned more than I ever have**<br>
 Because students were not restricted to the topics on the syllabus that were normally chosen by me, they pushed me in many new directions and I had to learn a bunch of new features of the VB.Net programming language in order to support them.
-I understood just how much power I held
+* **I understood just how much power I held**<br>
 Until you abdicate your power over the grades, you never really understand just how powerful you are as a professor.  In fact, to the extent that students care about their grades, the professor is nearly all-powerful in the classroom.  I realized ways that I had abused that power in the past and the friction it had caused.
-Students opened up to me in ways they never had
+* **Students opened up to me in ways they never had**<br>
 Because they were no longer worried about their grades or looking “stupid” in front of me, I got many more questions than I’d ever gotten before.  Students talked a lot more about their lives outside of class and how those lives impacted the time that they could or could not spend on ISAT 252.
-We all had a lot more fun
+* **We all had a lot more fun**<br>
 They weren’t stressed about being judged, and I wasn’t stressed about having to judge them.  We were free to fully engage ourselves in writing software and having fun doing it.
+
 There were some not-so-positive results as well.  Some students, particularly the students with high GPA’s, were at times more anxious about their performance.  They were reluctant to judge the quality of their work on their own.  Many complained that since programming was not something they enjoyed, that not having grades hurt their motivation to complete work for the course.  I also had a hard time competing for students’ time against other classes where their assignments were graded.  Students were pretty uniformly lenient on themselves when it came time to assigning grades, but not as lenient as I had thought they might be.  Seventy percent of them gave themselves a flat-out ‘A’ for the course, whereas the other 30% gave themselves an A-, B+, or a B.  I may have had only one or two B- grades that students assigned themselves.  Interestingly, but in retrospect not surprisingly, the students with higher GPAs tended to be more critical of their work and to give themselves lower grades.  The tendency for competent people to underrate their abilities is referred to in psychology as the Dunning-Kruger effect and has been observed in a wide range of areas of expertise.
 
-The Aftermath
+## The Aftermath
 
 Considering the quality of the work the students did that semester, and the excitement I was experiencing as a result of my perceived success, I was not prepared for how strong a negative reaction I received from some of my colleagues.  We had two long meetings the following semester in which I attempted to explain the research and theory behind my approach.  Some questioned whether or not what I was doing was in violation of the faculty handbook (it’s not as far as I can tell).  However, of the seven or eight people who attended these meetings, three or so were intrigued and supportive of my efforts, three or so were either mildly or strongly against my efforts, and on or two were on the fence.  I took the mixed reaction as a strong indication that I’d hit on an excellent topic for research.
 
 In the end, recognizing the importance of making significant pedagogical changes gradually and with the support of my colleagues, I compromised and agreed that I would make the final determination of grades from that point onward.  In the semesters since then I’ve been building my knowledge and skills in portfolio-based evaluation and how to guide students through such a course.  Given the evidence I cited above which recommends against using grades, I’m still interested in experimenting with the choose-your-own-grade approach.  Every semester, my understanding of what motivates students and how I can play a part in increasing that motivation grows deeper and more nuanced.  I look forward to sharing my findings with my colleagues and the academic community as a whole.
 
-Summary
+## Summary
 
 I’ve found that grades have many shortcomings, and as a result I attempted a bold and controversial approach to teaching a course without them.  This demonstrates both my creativity and my courage as a professor and as a researcher.  It also demonstrates that I embrace that element of the ISAT identity which prides itself on using innovative pedagogy.  There are many important questions still to answer in this line of research, for example, determining what constitutes a meaningful outcome for a course in the absence of traditional methods of evaluation.  I look forward to continuing these explorations in collaboration with my ISAT colleagues in the future, and with their support, implementing meaningful changes that are catalysts for student motivation and engagement as appropriate.
