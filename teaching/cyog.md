@@ -1,4 +1,4 @@
-**__**# Choose-Your-Own-Grade
+# Choose-Your-Own-Grade
 
 Over the twenty-one years that I have been a teacher, I’ve grown increasingly uncomfortable with the task of assigning grades.  This has led me to devote a great deal of time and energy to discovering a truly accurate, effective, and fair way to evaluate students in my courses.  On my journey I’ve discovered so many problems with grades that it led me to take a radical departure from accepted practice in my Spring 2009 sections of ISAT 252, the introductory programming class in the BSISAT curriculum.  First, I’ll relate some of the criticisms of grades from the scientific literature, and then talk about the semester in which I let students choose their own grades with no strings attached.
 
