@@ -7,6 +7,11 @@
         "back-to-top-button",
         "ga"
     ],
+    "pluginsConfig": {
+        "ga": {
+            "token": "UA-763196-11"
+        }
+    },
     "pdf": {
         "fontFamily": "Adobe Caslon Pro",
         "paperSize": "letter"
