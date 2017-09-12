@@ -11,7 +11,7 @@ During the 2011-12 academic year, I served on a task force made up of about 20 f
 3. Should JMU adopt a university-wide course evaluation instrument, and if so, with what questions?
 4. Where do student evaluations of teaching fit into the larger picture of evaluation of teaching?
 
-It was question #4 that I was assigned to work on. I was the primary author of the report that our subcommittee submitted back to the task force. Incidentally, I was also on a similar committee within ISAT that year, that produced its own report.
+It was question #4 that I was assigned to work on. I was the primary author of [the report that our subcommittee submitted back to the task force](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/misc/SETTaskForce-EvaluationSubcommiteeReport--2012-02-14.pdf). Incidentally, I was also on a similar committee within ISAT that year, that [produced its own report](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/misc/SPOT_Final_Report_20012-04-09.pdf).
 
 ## Learning Management System Selection Committee
 
@@ -29,13 +29,13 @@ During the 2010-11 academic year, I was asked by Sarah Cheverton to attend the v
 
 ## Blue Implementation Steering Committee
 
-During the 2012-13 academic year, I was asked to serve on the task force charged with figuring out how best to roll out student evaluations of teaching using Blue university-wide. I was on a subcommittee with Jeff Tang that was given the task of advising faculty on the best practices for implementing online course evaluations, particularly focusing on attaining a high response rate, and also dispelling myths and fears that faculty might have about making the shift to online evaluations.
+During the 2012-13 academic year, I was asked to serve on the task force charged with figuring out how best to roll out student evaluations of teaching using Blue university-wide. I was on a subcommittee with Jeff Tang that was given the task of [advising faculty on the best practices for implementing online course evaluations](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/misc/2013--Blue--UppingYourResponseRate.pdf), particularly focusing on attaining a high response rate, and also dispelling myths and fears that faculty might have about making the shift to online evaluations.
 
 As it turns out, the backlash against using Blue from faculty at large was loud and fierce. Coupled with some pilot tests of Blue that didn't go so well, Provost Benson decided not to push for aggressive adoption of Blue as was the original plan.
 
 ## ISAT Student Evaluation of Teaching (SET) Task Force
 
-During the 2016-17 academic year, I was asked by Jeff Tang to serve on the departmental committee charged with coming up with a new SET instrument that could be used to implement online course evaluations during the subsequent year. We met all throughout that year and the summer of 2017. I wrote a philosophical whitepaper establishing the goals of the committee. I also spearheaded our investigation of using the instrument and online collection system sold by IDEA. While we were ultimately told by JMU that we could not pay for IDEA, we were able to adopt and modify many of the questions from their instrument.
+During the 2016-17 academic year, I was asked by Jeff Tang to serve on the departmental committee charged with coming up with a new SET instrument that could be used to implement online course evaluations during the subsequent year. We met all throughout that year and the summer of 2017. I wrote [a philosophical whitepaper establishing the goals of the committee](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/misc/2016--ISAT--GoalsForSETInISAT.pdf). I also spearheaded our investigation of using the instrument and online collection system sold by IDEA. While we were ultimately told by JMU that we could not pay for IDEA, we were able to adopt and modify many of the questions from their instrument.
 
 ## Faculty Senate Academic Policies Committee (APC)
 
