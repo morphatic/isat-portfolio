@@ -1,8 +1,6 @@
 # Morphatic--My Blog
 
-![](/assets/morphatic_logo_bw.png)
-
-## http://morphatic.com
+[![](/assets/morphatic_logo_bw.png)](http://morphatic.com)
 
 In late 2015, I resurrected my blog. Since then I've written about 20 posts, and developed regular traffic yielding about 100 visits per day, or 3000 per month. My more popular posts are tutorials like:
 
