@@ -145,9 +145,39 @@ Considering the quality of the work the students did that semester, and the exci
 
 In the end, recognizing the importance of making significant pedagogical changes gradually and with the support of my colleagues, I compromised and agreed that I would make the final determination of grades from that point onward.  In the semesters since then I’ve been building my knowledge and skills in portfolio-based evaluation and how to guide students through such a course.  Given the evidence I cited above which recommends against using grades, I’m still interested in experimenting with the choose-your-own-grade approach.  Every semester, my understanding of what motivates students and how I can play a part in increasing that motivation grows deeper and more nuanced.  I look forward to sharing my findings with my colleagues and the academic community as a whole.
 
-## The Post-Tenure Life of CYOG
+## Post-Spring-2009 CYOG Research
 
-Since earning tenure in 2011, I have felt considerably more liberated to pursue various motivational schemes in my courses, including choose-your-own-grade (CYOG). I wanted to replicate the amazing semester I had in the spring of 2009. 
+After being chastised by several colleagues in fall of 2009 for implementing choose-your-own-grade (CYOG), I became skittish about doing that research as an un-tenured faculty member. Since earning tenure in 2011, I have felt considerably more liberated to pursue various motivational schemes in my courses, including CYOG. I wanted to replicate the amazing semester I had in the spring of 2009. Here is a brief chronology of what happened after that time.
+
+### Fall 2009: First "Formalized" CYOG
+
+I was still afraid to put the text "choose your own grade" in writing, but I spent 3.5 out of 9 pages on [my Fall 2009 ISAT 340 Syllabus](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2009_3/ISAT340Fall2009Syllabus.docx) explaining to students why grades were not good for them. The other parts of the syllabus focused on how to produce an effective portfolio of work. It was during this semester that the rest of the IKM Team let me know that they were uncomfortable with CYOG and that they didn't want me to do it.
+
+### Spring 2010-Fall 2011: CYOG on the DL
+
+For the next several semesters I experimented with different forms of "portfolio-based evaluation." I put that in quotes because in fact, grades were mostly based on the [end-of-semester narratives](/teaching/narratives.md) and [end-of-semester interviews](/teaching/interviews.md). One of the early lessons from CYOG was that the goal of motivated students should be to produce artifacts that they could show to potential employers--items that would carry much more weight than a course transcript. My role, as instructor, was to be advocate, coach, and witness--a cheerleader and motivator to help them get invested in their studies. As an example, you can get a sense of the atmosphere I was working to project in [my Fall 2010 ISAT 340 Syllabus](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2010_3/ISAT340Fall2010Syllabus.docx).
+
+### Spring 2012: CYOG Unleashed
+
+By this point, I knew that I had earned tenure and no longer felt under pressure by my colleagues not to experiment with CYOG. The [Spring 2012 ISAT 252 Syllabus explains](http://isat252spring2012.umatter2.us/syllabus/grades-and-evaluation/) that students would have the opportunity to select their own grade (within reason) with my input. By this point, I had learned that student motivation was not a simple construct, and that inspiring and bringing along dozens of students at a time **_without_** carrots and sticks was a difficult task. I could also tell that word was getting out. Enrollment by non-ISAT students looking for an easy elective was increasing in my classes.
+
+### Fall 2012-Spring 2015: Steady Innovation
+
+By this time, it was clear that I was in a battle over my students' time and energy, and my opponent was all of their other classes where the instructor assigned the grade. I consistently received the feedback:
+
+> **Morgan, I understand what you're trying to do in this class, but when it comes down to it, if I have to choose whether to spend my time on this class or another class, I always remember that I'm getting graded in the other class. Your class always gets put on the back burner.**
+
+I began implementing a number of different innovations that were designed to inculcate intrinsic motivation. Here are some of them:
+
+* [Pre-semester questionnaires](/teaching/questionnaires.md) designed to create an early and intense sense of connection both to me and to the course
+* [Custom courseware](/teaching/courseware.md) designed to create cognitive dissonance and based on [research I was doing with Dr. Pappas](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/publications/2011--AMCIS--Wordpress%2BQualtrics.pdf)
+* Meditation and regular questionnaires designed to increase mindfulness and positivity (for more details see the [chapter on custom courseware](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/publications/2011--AMCIS--Wordpress%2BQualtrics.pdf))
+
+Despite all of these efforts, it is difficult to conclude that I was ever able to help students reach the level of performance that they did in spring 2009.
+
+### Fall 2015: A Turning Point
+
+In the spring 2015 semester I had an email exchange with a student that completely demoralized me.
 
 ## Summary
 
