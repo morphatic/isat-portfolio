@@ -177,7 +177,21 @@ Despite all of these efforts, it is difficult to conclude that I was ever able t
 
 ### Fall 2015: A Turning Point
 
-In the spring 2015 semester I had an email exchange with a student that completely demoralized me.
+In the spring 2015 semester I had [an email exchange with a student that completely demoralized me](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/misc/2015--Frattaroli--ConversationAboutSkippingClasses.pdf). In a nutshell, despite insisting that I was the "most intriguing/inspiring professor" he had ever had at JMU, he had decided not to come to class at all that semester since he knew he could pick his own grade and he needed to focus on other classes more. He was frank about his decision, even when confronted with how illogical and unethical it was. It was after this exchange that I decided that while CYOG might work in an atmosphere where a significant number of other professors was doing it, it did not serve students well in a context where I was the only one doing it. And in several years of trying, I was never successful in convincing even one other professor to try it.
+
+In the fall 2015 semester, [I let my students know that CYOG was no longer an automatic option](http://f15.umatter2.us/syllabus/grades/)--they had to earn it. Instead, the default option was that [they had to earn points by completing badges](http://f15.umatter2.us/syllabus/grades/the-points-accumulation-system/). They still had an enormous amount of choice in how to spend their time in the form of a [broad menu of badges](http://f15.umatter2.us/badges/). Points were based roughly on how many hours students spent on the class, following from the [research indicating that time-on-task is the only reliable predictor of learning](http://www.education.com/reference/article/time-on-task/).
+
+I hated it. The students didn't really like it either. In the spring, I didn't give anyone the option of CYOG. It turns out, I had hit on exactly the [worst conditions for allowing students to synthesize happiness](https://www.ted.com/talks/dan_gilbert_asks_why_are_we_happy). It turns out, nobody wants to know how the sausage gets made. I was explaining my grading philosophy in super-fine detail because I felt guilty about grading students at all. They would rather not have it explained. In [fall 2016, I went back to CYOG with a newly explicated philosophy](http://340f16.umatter2.us/syllabus/grades/) because I hate it less than I hated the points-accumulation system.
+
+### The Current State of the Art
+
+Explain less. Expect more. I have [consolidated all of my courses into a single website](https://code4your.life). I've found that students don't hate the points-accumulation system if you don't tell them what the points represent. On the other hand, they are still pretty bad at prioritizing and managing their time.
+
+![](/assets/Screen Shot 2017-06-18 at 3.23.01 PM.png)
+
+This chart represents the average student in my course this past spring. All of them did extremely well over the first 5-6 weeks when there was still a lot of handholding. However, mid-semester when I set them loose to pursue the course material following different paths of their own choosing, their effort basically flatlined. It did not pick up again until the end of the semester when they all realized they needed to turn in work to get enough points to pass.
+
+**I still believe in CYOG.** I still believe that if all of our courses operated according to its principles, that we would see greatly improved outcomes. Until I'm able to convince everyone else, or move to a place that believes like I do, I'm going to have to search for a happy medium.
 
 ## Summary
 
