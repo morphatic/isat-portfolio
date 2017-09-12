@@ -4,7 +4,8 @@
     "language": "en-US",
     "plugins": [
         "toggle2",
-        "back-to-top-button"
+        "back-to-top-button",
+        "ga"
     ],
     "pdf": {
         "fontFamily": "Adobe Caslon Pro",
