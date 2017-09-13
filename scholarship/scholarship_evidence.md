@@ -12,3 +12,5 @@ As with the teaching section of this portfolio, if the Scholarship Narrative des
     * Black Rock Educators Consortium--Organizer
  2. [Professional meetings, field conferences and other scholarly gatherings](/scholarship/meetings.md)
  3. [Research involving students](/scholarship/students.md)
+ 4. Supervising Honors Projects--see [Capstone Projects](/teaching/capstones.md) for two Best Honors Thesis awards
+ 5. 
