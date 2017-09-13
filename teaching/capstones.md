@@ -43,6 +43,7 @@ I was also a member of the committee led by Tom Benzing that examined the ISAT c
 10. Ramsey, D., and Rapp, B. (2010) Development of a Residential Site Assessment and Economic Feasibility Calculator for Behind-the-Meter Wind Energy Generation in Virginia.
     * **Best Honors Thesis Award**
     * **ISAT Integration Award**
+    * **Presented a poster at AWEA**
 
 11. Jones, C., and Long, A. (2011) Harrisonburg – Department of Public Transportation Itinerary Planner
 

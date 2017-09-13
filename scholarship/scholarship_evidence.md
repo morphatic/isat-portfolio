@@ -11,3 +11,4 @@ As with the teaching section of this portfolio, if the Scholarship Narrative des
     * Association of Technology, Management, and Applied Engineering (ATMAE)
     * Black Rock Educators Consortium--Organizer
  2. [Professional meetings, field conferences and other scholarly gatherings](/scholarship/meetings.md)
+ 3. [Research involving students](/scholarship/students.md)
