@@ -1,5 +1,4 @@
-#
-Custom Courseware
+# Custom Courseware
 
 When it comes to educational technology, my guiding metaphor is:
 
