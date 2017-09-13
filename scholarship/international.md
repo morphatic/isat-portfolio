@@ -2,10 +2,10 @@
 
 All of these presentations are accompanied by a refereed paper or slides that were published in the proceedings of the conference.
 
-* Radziwill, N. M. & Benton, M. C., 2017: Neurodiversity Secrets for Innovation & Design, SXSW 2017, Austin TX, 2017-Mar-12
-* Radziwill, N. M. & Benton, M. C., 2016: Design for Neurodiversity (DfN*): A Design for X Process for Alternative Cognitive Styles. HASTAC, Phoenix AZ, May 13.
+* [Radziwill, N. M. & Benton, M. C., 2017: Neurodiversity Secrets for Innovation & Design, SXSW 2017, Austin TX, 2017-Mar-12](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/publications/2017--SXSW--NeurodiversitySecrets.pdf)
+* [Radziwill, N. M. & Benton, M. C., 2016: Design for Neurodiversity (DfN*): A Design for X Process for Alternative Cognitive Styles. HASTAC, Phoenix AZ, May 13.](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/publications/2016--HASTAC--DesignForNeurodiversity.pdf)
 * [Benton, M. C. & Radziwill, N. M., 2016: Choose Your Own Grade: Instructional Civil Disobedience. HASTAC, Phoenix AZ, May 12.](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/publications/2016--HASTAC--CYOG.pdf)
-* Radziwill, N. M. & Benton, M. C., 2016: The Future of Quality: Cognitive Production, Ambient Intelligence, Smart Manufacturing, and Emergent Analytics. ASQ Boston Conference on Quality, Boston MA, April 11.
+* [Radziwill, N. M. & Benton, M. C., 2016: The Future of Quality: Cognitive Production, Ambient Intelligence, Smart Manufacturing, and Emergent Analytics. ASQ Boston Conference on Quality, Boston MA, April 11.](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/publications/2016--ASQ--FutureOfQuality.pdf)
 * [Radziwill, N. M. & Benton, M. C., 2014: The 10 Principles: A New Paradigm for Collaboration and Innovation. IAJC/ISAM International Conference, Orlando FL, September 26.](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/misc/2014--IAJC-ISAM--10PrinciplesANewParadigm.pdf)
 * [Benton, M. C., Pappas, E. & Pappas, J. (2011). WordPress+Qualtrics: A plugin supporting research and new pedagogy to develop personal sustainability via 360 degree evaluation. In Proc. 17th Americas Conference on Information Systems, Detroit MI, August 5.](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/publications/2011--AMCIS--Wordpress%2BQualtrics.pdf)
 * [Benton, M. C. & Radziwill, N. M. (2011). A Path for exploring the Agile Organizing Framework in eechnology education. Agile 2011, Salt Lake City UT, August 9, 2011.](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/publications/2011--Agile2011--AgileOrganizingFramework.pdf)
