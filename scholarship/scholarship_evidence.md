@@ -32,4 +32,8 @@ As with the teaching section of this portfolio, if the Scholarship Narrative des
    1. Contributions to a focused, goal-directed, research program
    2. Awards and external recognition
    3. [Presentations at national/international conferences published in proceedings](/scholarship/international.md)
-   4. Book reviews
+   4. [Book reviews](/scholarship/reviews.md)
+   5. Books:
+      * [Benton, M., _The Draconic Ephemeris: 1950-2050 at Noon_, Lapis Lucera, 2015.](http://amzn.to/2xxdAnM)
+   6. [Grant funding: Total $642,000](/scholarship/funding.md)
+   7. Student research with publication or presentation:
