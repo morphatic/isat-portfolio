@@ -36,4 +36,5 @@ As with the teaching section of this portfolio, if the Scholarship Narrative des
    5. Books:
       * [Benton, M., _The Draconic Ephemeris: 1950-2050 at Noon_, Lapis Lucera, 2015.](http://amzn.to/2xxdAnM)
    6. [Grant funding: Total $642,000](/scholarship/funding.md)
-   7. Student research with publication or presentation:
+   7. [Student research with publication or presentation](/scholarship/students.md)
+   8. Refereed publications
