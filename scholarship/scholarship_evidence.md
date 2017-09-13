@@ -28,3 +28,5 @@ As with the teaching section of this portfolio, if the Scholarship Narrative des
     * [Less Work, Better Learning, More Fun. CFI May Symposium 2013](https://github.com/morphatic/isat-portfolio/blob/master/supporting_materials/misc/2013--CFI--LessWorkBetterLearningMoreFun.pdf)
     * [Plan for Micro-Courses Pilot, Presented to Vice Provost for Academic Development, April, 2015](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/misc/2015--APC--PlanForMicroCoursePilot.pdf)
  10. [Un-funded grant proposals](/scholarship/unfunded.md)
+2. Criteria for **_Excellent_** evaluation:
+   1. 
