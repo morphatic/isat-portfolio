@@ -1,6 +1,6 @@
 # Evidence of Scholarship
 
-As with the teaching section of this portfolio, if the Scholarship Narrative describes the tapestry, the Scholarship Evidence section describes the individual strands. Please find below evidence, not only of scholarly vitality, but of coherence, trajectory, and purpose in the use of my scholarly gifts and talents.
+As with the teaching section of this portfolio, if the [Scholarship Narrative](/scholarship/scholarship_narrative.md) describes the tapestry, the Scholarship Evidence section describes the individual strands. Please find below evidence, not only of scholarly vitality, but of coherence, trajectory, and purpose in the use of my scholarly gifts and talents.
 
 1. Criteria for **_Satisfactory_** evaluation:
  1. Membership in professional and scholarly societies and organizations:
