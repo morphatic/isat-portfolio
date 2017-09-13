@@ -19,4 +19,4 @@ As of 2017 September 13, I have 56 citations total on all of my publications [ac
     * Cited by 6
 * [Benton, M. C. (2008). The development and evaluation of software to foster professional development in educational assessment. Ph.D. Dissertation, New Jersey Institute of Technology, 295 pp., AAT 3443059. Available from ProQuest](http://gradworks.umi.com/34/43/3443059.html.)
     * Cited by 1 Journal of Information Systems article in 2008
-* Benton, M. C. (2002). Standards 101, A tutorial for IT managers. Journal of the Standards Engineering Society, 54(1&2), 10-15.
+* [Benton, M. C. (2002). Standards 101, A tutorial for IT managers. Journal of the Standards Engineering Society, 54(1&2), 10-15.](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/publications/2002-Benton-Standards101.pdf)
