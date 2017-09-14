@@ -7,14 +7,46 @@ I have put a great deal of time and effort into service at the departmental leve
 I have been a member of Assessment since 2007, and became the Chair in Fall 2016. Some of my notable contributions over the years include:
 
 * **Led the creation of Goal K, the "Integration" goal**<br>When I arrived in ISAT in 2006, the program was still struggling very much with the operational definition of the question "What is _integration_?" During the Spring 2008 semester, I led the committee that wrote Goal K:
-> **ISAT Graduates are integrated problem solvers who look out from the perspective of a problem and then assemble the tools and knowledge needed to solve it**
-* 
+> **ISAT Graduates are integrated problem solvers who look out from the perspective of a problem and then assemble the tools and knowledge needed to solve it.**
+* **Assessment Day Note-taker**<br>I have taken notes at anywhere from 3 to 5 focus group meetings at every Assessment Day since 2007. This is noteworthy because it gives me an uncommon insight into our seniors' perspectives on our programs, and how they have changed over the years. I could point to a number of specific changes that have happened over the years due in large part to feedback conveyed in these notes, such as beefing up the technology content in IA, restructuring the capstone experience in GS, and replacing the 3rd sector in BSISAT.
+* **Senior Project Rubrics and Assessment**<br>Not only have I been on several committees and led the effort to create, revise, and validate the current "PCHOM" Rubric, but I also take credit for getting ISAT to invest in video recording equipment, training all of our junior moderators, and [getting all of the senior project presentation videos up on the web](https://www.youtube.com/channel/UCbYPzdPbZjPdJiU2X5L_cFA). This is a **MAJOR** effort. Moving forward it will play a huge role in closing the loop on our continuous improvement activities as a program.
+* **Creating BSISAT Portfolios**<br>This has been a very long-term goal of the Assessment committee, but with the implementation of the Spine, there will now be "signature assignments" in every class. We have worked with LET (Libraries and Educational Technology) to make use of the Canvas API so that we can extract those assignments to a separate system where we can evaluate them using the PCHOM Rubric.
+
+In short, I've been an integral part of ISAT Assessment over my entire time here, contributing expertise to a variety of instruments like the senior survey, and alumni surveys. This is a role I hope to continue as long as I'm here.
+
+## Personnel Advisory Committee (PAC)
+
+I served on the PAC from 2012-2015. I played a role in some of the notable changes of the last several years, namely:
+
+* **Institution of 3rd Year Review**<br>I was a member of the PAC the first year we did this, and such played a significant role in setting up the procedures that are currently used.
+* **Clarification on "Outside" Knowledge Question**<br>Every year there is confusion about whether the PAC should restrict its decision only to information in the packet, or if it can rely upon personal experience or other information. This became such a thorny issue on the PAC on which I served, that we consulted Susan Wheeler, JMU's attorney, who made it clear that **yes**, you can and should bring your outside knowledge of a candidate to bear; that is one of the major reasons that the PAC is made up of colleagues, and not of an external panel of purely objective observers.
+* **Seeking Missing Evidence Question**<br>Another question that sometimes comes up is whether or not it is appropriate for PAC members to seek and produce additional evidence that is not in a candidate's portfolio. For example, there was a candidate who did not include any syllabi in their portfolio. This turned out to be a major point of contention on the committee when trying to decide between "Excellent" and "Satisfactory" for this person. We discovered (too late) from Susan Wheeler that it is perfectly acceptable for PAC members to retrieve and submit additional resources, such as syllabi, that are readily available, e.g. as in when they are stored on Canvas and can be easily downloaded.
+* **Creation of the Merit-Pay Review Policy**<br>When/if there is an occasion that JMU awards merit pay increases, every unit must have a policy for how these awards will be distributed across the members of the department. Particularly given the huge number broad diversity of the faculty within the ISAT Department, I pushed hard for a policy that would "flatten the hierarchy" as much as possible to reduce the amount of work that the AUH has to do, and also to escape, as much as possible, any rancor caused by people feeling they were unfairly rewarded. This discussion also resulted in **[two refereed](https://github.com/morphatic/isat-portfolio/blob/master/supporting_materials/publications/2016--JQP--MeritPayInHigherEd.pdf) [publications](https://github.com/morphatic/isat-portfolio/blob/master/supporting_materials/publications/2016--JQP--DiggingDeeperIntoBehaviorism.pdf)**.
+
+## Student Evaluation of Teaching (SET) Committees
+
+I have served on two SET committees at the departmental level. In 2011-12, Mary Handley and I spent several months tracking down a variety of SET instruments and discussing what kinds of policies and procedures, as well as what kinds of interpretations and analyses were desirable and appropriate for a completely revamped SET instrument for ISAT. This work got put on hold when it appeared that the work would be superseded by a university-level committee, and also when the implementation of online SET was put on hold.
+
+The second SET committee began meeting in Fall 2016 and is ongoing. Using the final report of the 2011-12 committee as the starting point, I played a large role in the identification and evaluation of a set instrument created by a company called IDEA. Along with Eric Pappas, Emily York, and Emil Salib, I participated in the creation of our new ISAT SET instrument that will go into use for all ISAT faculty starting Fall 2017. This will have long-lasting repercussions for how we evaluate and think about teaching in ISAT.
+
+## ISAT 190 Curriculum Development Team
+
+In the spring of 2015, I worked with Mike Deaton, Paul Henriksen, and Catherine De Ridder Vignone to produce the first draft of the new "Introduction to ISAT" spine course that was first taught in the fall 2015 semester. I contributed a [well-supported philosophical arguments for a very aggressively social, community-building approach to the course](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/misc/2015--Spine--Initial190Thoughts.pdf). I also drafted a [syllabus that contained a set of very carefully constructed educational objectives that specified the ways that they would be assessed](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/misc/2015--Spine--Draft190Syllabus.pdf).
+
+After the class was taught for the first time, Mike Deaton, who taught it, commented in a BSISAT faculty meeting that the "interview a professor" assignment that I had designed was, without a doubt, the most effective and popular assignment in the entire course. I have tried to be very targeted and specific about where and how I apply my gifts and talents, in this case curricular design, to my service in ISAT.
+
+## Other Committees
 
 Here is a brief list of committees on which I served and some of my contributions in the time period prior to receiving tenure and promotion to associate professor level.
 
+* **Foundations Review Task Force, Summer 2017:** We were asked to figure out if there was any way for the program to change the way we taught the Foundations so that we could be more efficient in our use of teaching resources because of an anticipated shortage next year. My participation resulted in the production of a whitepaper on intentional cross-cohort development, an extension of the ideas I came up with in the ISAT 190 curriculum development team.
+* **ISAT Capstone Load Distribution Task Force, 2016-2017:** This group was asked to determine if the distribution of capstone students/projects across the faculty was fair and appropriate. We decided that it was mostly okay, and made some recommendations for how to make the distribution more equitable through voluntary compliance.
+* **IKM/TNS Technician Search, 2016-2017:** This committee ended up hiring Safaa Al Badry
+* **Production Systems Search Committee, 2015-2016:** I was not a formal member but attended many sessions and meals. This committee hired Hao Zhang and Rebecca Simmons.
+* **Telecom Search Committee, 2012-2013:** This is the committee that ended up recommending we hire Samy El-Tawab as a tenure-track member of our department.
 * **Web Advisory Committee, Chair, 2008-2011:** authored the website architecture for all CISAT departmental and program websites prior to the adoption of Cascade as the university's content management system
 * **IKM Academic Team, 2006-present:** served as chair 2009-2011 and 2013-present
-* **Recruiting Committee, 2006-2013**, served as chair Fall 2009-2012; created the ISAT Video Contest (the ["It's ISAT!" video](https://www.youtube.com/watch?v=XCSyCJIUDfc) has received over 23K views!!!)
+* **Recruiting Committee, 2006-2013**, served as chair Fall 2009-2012; created the ISAT Video Contest (the ["It's ISAT!" video](https://www.youtube.com/watch?v=XCSyCJIUDfc) has received over 23K views!!!); the need for this committee was obviated by rising enrollments in our programs. We did it!
 * **C&I Committee, 2006-2012:**, IKM Representative
 * **Foundations Committee, 2008-2014:** wrote and submitted an updated CAR for ISAT 252; served as the IKM Team representative
 * **Assessment Committee, 2007-present:** in charge of research and development for a departmental portfolio system
