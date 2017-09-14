@@ -1,6 +1,6 @@
 # Service on Departmental Committees
 
-I have put a great deal of time and effort into service at the departmental level. I should hope that there is no question about my commitment to the continuous improvement of both our Department and the BSISAT Program. I'd like to focus on some of my more important contributions.
+I have put a great deal of time and effort into service at the departmental level. I should hope that there is no question about my commitment to the continuous improvement of both our Department and the BSISAT Program. I'd like to focus on some of my more important contributions. The majority of my contributions draw from a deep understanding of pedagogy, motivational psychology, assessment methodology, and technological implementation.
 
 ## BSISAT Assessment Committee
 
@@ -39,8 +39,9 @@ After the class was taught for the first time, Mike Deaton, who taught it, comme
 
 Here is a brief list of committees on which I served and some of my contributions in the time period prior to receiving tenure and promotion to associate professor level.
 
-* **Foundations Review Task Force, Summer 2017:** We were asked to figure out if there was any way for the program to change the way we taught the Foundations so that we could be more efficient in our use of teaching resources because of an anticipated shortage next year. My participation resulted in the production of a whitepaper on intentional cross-cohort development, an extension of the ideas I came up with in the ISAT 190 curriculum development team.
+* **Foundations Review Task Force, Summer 2017:** We were asked to figure out if there was any way for the program to change the way we taught the Foundations so that we could be more efficient in our use of teaching resources because of an anticipated shortage next year. My participation resulted in the production of a [whitepaper on intentional cross-cohort development](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/misc/2017--Foundations--IntetionalCrossCohortDevelopment.pdf), an extension of the ideas I came up with in the ISAT 190 curriculum development team.
 * **ISAT Capstone Load Distribution Task Force, 2016-2017:** This group was asked to determine if the distribution of capstone students/projects across the faculty was fair and appropriate. We decided that it was mostly okay, and made some recommendations for how to make the distribution more equitable through voluntary compliance.
+* **Cyber-Physical Systems Search, 2016-2017:** I was not an official member, but interacted with all the candidates and gave feedback to the committee that eventually recommend the hire of Ahmad Salman.
 * **IKM/TNS Technician Search, 2016-2017:** This committee ended up hiring Safaa Al Badry
 * **Production Systems Search Committee, 2015-2016:** I was not a formal member but attended many sessions and meals. This committee hired Hao Zhang and Rebecca Simmons.
 * **Telecom Search Committee, 2012-2013:** This is the committee that ended up recommending we hire Samy El-Tawab as a tenure-track member of our department.
