@@ -7,8 +7,19 @@ As with the the previous sections, if the [Service Narrative](service_narrative.
         * [Departmental Committees](/service/department.md)
         * [College Committees](/service/college.md)
         * [University Committees](/service/university.md)
-    2. [Participating in public relations and recruiting](/service/public.md)
-    3. [Securing funding for teaching and equipment support](/service/funding.md)
+    2. Participating in public relations and recruiting
+        * Because of my efforts, [ISAT now has a new YouTube channel for our capstone project presentation videos](https://www.youtube.com/channel/UCbYPzdPbZjPdJiU2X5L_cFA) that can be used to advertise and recruit
+        * Led a cross-disciplinary team of students to victory at the 2016 Annual Caring for the Caregiver Hackathon in Richmond, VA, March 25-27. The team won $5000 in round one, resulting in publication in regional news and on the JMU website
+        * Led the same team to win round two, $10,000, resulting in more press coverage. The team has now officially formed an LLC and I’m working with them to commercialize their product.
+        * Attended ISAT 20th Anniversary weekend in April 2014
+        * I represented JMU and ISAT at the Tech Expo held at Liberty University during the Fall of 2008 and also went on a recruiting trip to the Central Virginia Governor’s School in Lynchburg, VA
+        * I have been one of the primary organizers and speakers at the Fall ISAT Recruiting Events held every year through 2012.  These events usually net 8-10 new majors each year.
+        * I created and ran the ISAT Video Contest which increased awareness about ISAT such as [this one](https://www.youtube.com/watch?v=6iDe5Xt6I94)
+        * I have participated in most of the Saturday Open Houses, Take-A-Look days and Choices events since I’ve been here.  In particular, I was asked to be a speaker at the Choices event held in the Convo Center in Spring 2008.
+    3. Securing funding for teaching and equipment support
+        * I have routinely participated in putting together ETF requests for new technology
+        * Was able to get $10,000 from the Provost and another $5,000 from 4VA to teach the first Fueled class in the XLabs in spring 2017
+        * A number of the [successful funding proposals I've submitted over the years](//scholarship/funding.md) have included money for teaching and equipment support
     4. Advising Student Organizations
         * **ISAT Honor Society (IHS): 2009-2015**<br>I took over IHS from Chris Bachmann, and passed it on to Shannon Conley. During my time, I helped get IHS involved in the Annual ISAT Golf Challenge, formalize the tutoring the IHS does, and also tried to deepen the significance of the investiture ceremony.
         * **Japan Club: 2010-present**<br>This club was formed by a group of students who went on a study abroad with me to Japan. I played a much more active role in the first few years. More recently, I've mainly helped coordinate bringing the JET Program recruiter to campus.
