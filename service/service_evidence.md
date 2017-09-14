@@ -7,6 +7,7 @@ As with the the previous sections, if the [Service Narrative](service_narrative.
         * [Departmental Committees](/service/department.md)
         * [College Committees](/service/college.md)
         * [University Committees](/service/university.md)
+        * [Committees on Course Evaluation](/service/course_evals.md)
     2. Participating in public relations and recruiting
         * Because of my efforts, [ISAT now has a new YouTube channel for our capstone project presentation videos](https://www.youtube.com/channel/UCbYPzdPbZjPdJiU2X5L_cFA) that can be used to advertise and recruit
         * Led a cross-disciplinary team of students to victory at the 2016 Annual Caring for the Caregiver Hackathon in Richmond, VA, March 25-27. The team won $5000 in round one, resulting in publication in regional news and on the JMU website
