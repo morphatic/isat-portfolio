@@ -37,7 +37,15 @@ Another impact I think I've been able to have, is in exploring ideas for more ra
 
 #### A Micro-Course Proposal
 
-Between 2013 and 2015, I introduced an idea that Dr. Radziwill and I had come up with to allow faculty to offer courses for as little as 1/2, 1/3, or even 1/4 of one credit hour. There was **_a lot_** of discussion, and back and forth. We had to consult the registrar, business office, and financial aid. **In the end though, we were able to get the administration to give approval to our proposal for a limited pilot of 1/2 credit micro-courses**.
+Between 2013 and 2015, I introduced an idea that Dr. Radziwill and I had come up with to allow faculty to offer courses for as little as 1/2, 1/3, or even 1/4 of one credit hour. There was **_a lot_** of discussion, and back and forth. We had to consult the registrar, business office, and financial aid. **In the end though, we were able to get the administration to give approval to[ our proposal for a limited pilot of 1/2 credit micro-courses](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/misc/2015--APC--PlanForMicroCoursePilot.pdf)**. Because Dr. Benson was leaving, and we wanted to wait until a new provost was hired, the pilot study has not been scheduled yet.
+
+#### Changing JMU's Grading Scheme
+
+This year (2017-2018) the Vice Provost for Academic Development, Dr. Marilou Johnson and JMU Registrar Michele White have agreed to participate in exploring the idea of changing JMU's grading scheme from ABCDF to ABC-No-credit, which is a scheme used at schools like Brown and WPI. Part of the goal is to foster a university-wide discussion into how the way we grade has an impact on students' motivation and engagement. Since JMU aims to be the "national model of the engaged university," they have been open to having some conversations about some more radical proposals. **I think my past track record as being able to lead reasonable and calm discussions has earned us the right to explore some potentially controversial topics.**
+
+### Faculty Senate Service Summary
+
+Part of my transition from Assistant to Full Professor at JMU has been about how to maintain an innovative approach to my teaching and scholarship. It has been about developing courage and risk-tolerance, but at the same time developing a way to communicate and plan to adopt new, possibly scary, ideas in a way that is controlled and non-threatening. As APC chair, I've had the opportunity to practice this at the university level. Having the opportunity to influence the direction of the whole university without having to become an administrator has been a really satisfying experience for me. I hope to continue in this role for at least a couple more years.
 
 ## Other University-Level Service
 
