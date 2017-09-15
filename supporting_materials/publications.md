@@ -31,6 +31,12 @@ This is a full list of all of my publications.
 * [Benton, M. C., Tremaine, M. M., & Scher, J. (2004). Computer aids for designing effective multiple choice questions. In Proc. 10th Americas Conference on Information Systems, New York City NY, August 15.](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/publications/2004--AMCIS--ComputerAidsForMCQs.pdf)
 * [Benton, M. C., Kim, E., Ngugi, B. (2002). Bridging the gap: from traditional information retrieval to the semantic web. In Proc. 8th Americas Conference on Information Systems, New York City NY, August 18.](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/publications/2002--AMCIS--InfoRetrieval2SematicWeb.pdf)
 
+## Book Chapters
+
+* Benton, M. C. &amp; Radziwill, N. M. 2018: Designing Personal Sustainability into Organizational
+Culture: The Case of Burning Man. Invited chapter in Case Studies in Sustainability. Garren, S. &amp;
+Brinkmann, R., Eds. New York, NY: Palgrave Macmillan.
+
 ## Published Book Reviews
 
 _NOTE: I realize that some reviews appear twice. That is because SQP and QMJ are sister publications from the same publisher. The journals have non-overlapping audiences so the publisher likes to print them in more than one place._
