@@ -1,11 +1,15 @@
 # Evaluations by Students
 
-I am [extremely knowledgeable and sought out for my expertise](/service/course_evals.md) with respect to course evaluation. I have long been a loud critic of the course evaluation instrument that has been used in ISAT for such a long time. I value student feedback greatly which is why for most semesters since 2011:
+I **_value feedback from students greatly_**, and identifying useful and effective mechanisms for student evaluations has long been a [cornerstone of my research](/teaching/courseware.md) and my service to ISAT (most recently, as an 10-year member of the Assessment Committee which I now chair, and member of the ISAT Student Evaluation of Teaching (SET) Task Force). As a consequence, I have relied upon mechanisms other than the standard ISAT end-of-course evaluations to continuously improve my teaching practice, and so **this section will present markedly different information that you will see from other members of the ISAT faculty**.
 
-* I have had a one-on-one exit interview with **_every_** student in **_every_** section I taught that semester (sometimes that meant scheduling over 80 interviews during exam week!) 
-* I had each student write a 3-5 page "exit essay" or narrative which asked them to think critically about their learning experience
+Even though the SET Task Force has only started to present its findings to the faculty this academic year, I have been engaged in the preliminary work for this committee for several years.  I am [extremely knowledgeable and sought out for my expertise](/service/course_evals.md) with respect to course evaluation. Because I have long been a loud critic of the course evaluation instrument that has been used in ISAT for such a long time, I have also been working diligently to investigate alternatives since Fall 2011.
 
-Here are both tabular and graphical representations of the number of end-of-semester interviews/narratives I have conducted/read, which overall total over 700:
+* Between Fall 2011 and Spring 2016, I have:
+    * held a one-on-one exit interview with **_every_** student in **_every_** section I taught that semester (sometimes that meant scheduling over 80 interviews during exam week!) 
+    * Had each student write a 3-5 page "exit essay" or narrative which asked them to think critically about their learning experience
+    * Used the narratives to extract key features about the ISAT student learning experience, which has directly contributed to the work of the SET Task Force
+* In Fall 2016 and Spring 2017, I adopted a points-accumulation approach to provide a recent contrast with the CYOG method I have been working on for years, and the written narratives and exit interviews were briefly disbanded. 
+* Although the analysis below focuses on qualitative data from the 704 narratives I received and exit interviews I have conducted since Fall 2011, my standard ISAT end-of-course evaluations are available for your perusal if you would like supplemental information.
 
 | Semester | # of Evaluation Narratives Reviewed |
 |:--------:|:-----------------------------------:|
@@ -22,7 +26,7 @@ Here are both tabular and graphical representations of the number of end-of-seme
 
 ![Number of student narratives reviewed by Morgan C. Benton](/assets/num-narratives.jpg)
 
-In this section, I will describe key themes that have come up repeatedly in my course sections, particularly as relates to the [many iterations of CYOG](/teaching/cyog.md) that I attempted. I will use quotations from the student essays to illustrate and highlight those themes, and I will discuss my responses to student feedback, and if possible, the student responses to my responses. But first:
+For the remainder of this section, I will describe key themes that have come up repeatedly in my course sections, particularly as relates to the [many iterations of CYOG](/teaching/cyog.md) that I attempted. I will use quotations from the student essays to illustrate and highlight those themes, and I will discuss my responses to student feedback, and if possible, the student responses to my responses. But first:
 
 ## A Comment on Numeric Course Evaluations
 
@@ -40,8 +44,6 @@ My historical evaluations are downloadable from the website I prepared for my pr
 
 * [Scanned copies of ALL ISAT course evaluations prior to Fall 2011](http://tenure.umatter2.us/wp-content/uploads/2011/09/CourseEvals.zip)
 * [Scanned copies of my course evaluation summaries from 2001-2005 when I taught at New Jersey Institute of Technology](http://tenure.umatter2.us/wp-content/uploads/2011/09/AllNJITTeachingEvaluations.pdf)
-
-
 
 ## End-of-Semester Narratives
 
