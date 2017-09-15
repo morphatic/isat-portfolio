@@ -2,6 +2,15 @@
 
 In this section, I'll discuss my teaching prior to coming to JMU–both in Japan and at the New Jersey Institute of Technology (NJIT)–and then narrate how my teaching role has unfolded here at JMU.  I've borrowed the pre-JMU parts of this narrative from my application for tenure and associate professor, but the section on my evolution as a teacher since I reached JMU has been updated to reflect the last six years. The goal of this section is to convey to you my trajectory, depth, passion, and maturity as a teacher.  The supporting documents in the teaching section of this portfolio will serve as evidence of my quality.  In other words, the artifacts in my portfolio will demonstrate what I've done, while this narrative will relate why and how I've done these things.
 
+At JMU I am primarily involved in teaching courses in:
+
+* Computer programming from basic to advanced level
+* Software development and engineering methodology, including agile development
+* Social impacts of computing and technology
+* Current trends in technology, such as IoT (Internet of Things), VR/AR (virtual/augmented reality), cryptocurrencies (e.g. bitcoin)
+
+In addition to these areas, I have also taught Japanese language and culture, and have participated in a wide variety of other teaching experiences.
+
 ## Teaching English in Japan
 
 My first job after graduating from college was as an English teacher in rural junior high schools in Hokkaido, the northernmost island of Japan.  When I took this job I still had no idea that my calling was teaching.  At the time, I would have told you that I wanted to have an adventure in a foreign country where I couldn't speak the language.  I chose Japan because I had been studying judo and zen meditation since my sophomore year in college.  As an undergrad at the University of Richmond I majored in sociology and leadership studies, and minored in physics.  My plan was to spend one or two years in Japan and then come back to the US and figure out what my "real career" would be.  Regardless of my intentions, though, teaching in Japan made a deep impression on me and relating the differences between the US and Japanese educational systems may shed some light on how my teaching philosophy developed while there.
