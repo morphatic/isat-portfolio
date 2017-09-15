@@ -11,7 +11,6 @@
     * [Course Evaluation Committees](/service/course_evals.md)
     * [Reputation at StackOverflow](/teaching/stackoverflow.md)
     * [Morphatic--My Blog](/teaching/blog.md)
-    * [Student Narratives](/teaching/narratives.md)
     * [Course Evaluations](/teaching/evaluations.md)
     * [Capstone Projects](/teaching/capstones.md)
     * [Hacking, Hack-a-Thons, & Pop-Ups](/teaching/hacking.md)
