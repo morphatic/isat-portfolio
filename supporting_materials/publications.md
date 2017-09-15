@@ -23,19 +23,42 @@ This is a full list of all of my publications.
 * [Radziwill, N. M. & Benton, M. C., 2016: Design for Neurodiversity (DfN*): A Design for X Process for Alternative Cognitive Styles. HASTAC, Phoenix AZ, May 13.](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/publications/2016--HASTAC--DesignForNeurodiversity.pdf)
 * [Benton, M. C. & Radziwill, N. M., 2016: Choose Your Own Grade: Instructional Civil Disobedience. HASTAC, Phoenix AZ, May 12.](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/publications/2016--HASTAC--CYOG.pdf)
 * [Radziwill, N. M. & Benton, M. C., 2016: The Future of Quality: Cognitive Production, Ambient Intelligence, Smart Manufacturing, and Emergent Analytics. ASQ Boston Conference on Quality, Boston MA, April 11.](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/publications/2016--ASQ--FutureOfQuality.pdf)
+* Benton, M. C. & Radziwill, N. M., 2015: The 10 Principles in Education. IAMU Networking Executive Session, Washington DC, April 30.
+* Benton, M. C. & Radziwill, N. M., 2015: The 10 Principles in Education. Burning Man Census Lab Conference, Black Rock City NV, September 2.
+* Benton, M. C. 2015. The Source of Innovation: Empathy, Gifts, & the 10 Principles. ASQ Innovation Division Conference, Charlottesville, VA, 2015 Sep 18-20.
 * [Radziwill, N. M. & Benton, M. C., 2014: The 10 Principles: A New Paradigm for Collaboration and Innovation. IAJC/ISAM International Conference, Orlando FL, September 26.](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/misc/2014--IAJC-ISAM--10PrinciplesANewParadigm.pdf)
+* Radziwill, N. M. &amp; Benton, M. C., 2014: Pseudoscience in the Era of Big Data. Center Camp
+Speaker Series, Burning Man, Black Rock City NV, August 26.
+* [Radziwill, N. M. & Benton, M. C., 2013: The Burning Mind Project--Creating a Culture of Radical Innovation in Technology Education. ATMAE Annual Meeting, New Orleans, LA, November 21.](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/misc/2013--ATMAE--BurningMindProject.pdf)
+* Radziwill, N. M. &amp; Benton, M.C. 2012: Agile Software Development and the Learning
+Organization. Invited Speaker, ASQ North Jersey Spring Quality Conference, April 5.
 * [Benton, M. C., Pappas, E. & Pappas, J. (2011). WordPress+Qualtrics: A plugin supporting research and new pedagogy to develop personal sustainability via 360 degree evaluation. In Proc. 17th Americas Conference on Information Systems, Detroit MI, August 5.](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/publications/2011--AMCIS--Wordpress%2BQualtrics.pdf)
 * [Benton, M. C. & Radziwill, N. M. (2011). A Path for exploring the Agile Organizing Framework in eechnology education. Agile 2011, Salt Lake City UT, August 9, 2011.](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/publications/2011--Agile2011--AgileOrganizingFramework.pdf)
+* Radziwill, N. M. &amp; Benton, M. C., 2011: Applying the Agile Organizing Framework to Team
+Management. International Conference on Software Quality (ICSQ), San Diego CA, February 8,
+2011.
+* [Benton, M. C. & N. M. Radziwill, 2010: Using the Agile Organizing Framework to Create Adaptive Learning Environments for Technology Development. ATMAE, Panama City Beach FL, October 29, 2010.](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/misc/2010--ATMAE--AgileOrganizingFramework.pdf)
 * [Benton, M. C., & Tremaine, M. M. (2008). Systems analysis using the Transtheoretical Model of behavioral change: encouraging adoption of “best practices” over “standard practices”. In Proc. 14th Americas Conference on Information Systems, Toronto ON, August 16.](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/publications/2008--AMCIS--SysAnalWTranstheoreticalModel.pdf)
 * [Benton, M. C., & Tremaine, M. M. (2008). QuesGen: clarifying the dimensions of multiple-choice question quality. In Proc. Annual Meeting of the American Educational Research Association (AERA), New York City NY, March 26.](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/publications/2008--AERA--ClarifyingDimensionsOfMCQQuality.pdf)
 * [Benton, M. C., Tremaine, M. M., & Scher, J. (2004). Computer aids for designing effective multiple choice questions. In Proc. 10th Americas Conference on Information Systems, New York City NY, August 15.](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/publications/2004--AMCIS--ComputerAidsForMCQs.pdf)
 * [Benton, M. C., Kim, E., Ngugi, B. (2002). Bridging the gap: from traditional information retrieval to the semantic web. In Proc. 8th Americas Conference on Information Systems, New York City NY, August 18.](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/publications/2002--AMCIS--InfoRetrieval2SematicWeb.pdf)
 
-## Book Chapters
+## Workshops
+
+* Benton, M. C. & Radziwill, N. M., 2013: Bringing the 10 Principles to the Classroom. Burning Man Project Headquarters, San Francisco CA, March 6.
+* Benton, M. C. & Radziwill, N. M., 2013: Less Work, Better Learning, More Fun! Effective Strategies for Teaching Without Grades. JMU Center for Faculty Innovation, Harrisonburg VA, May 6.
+* [Benton, M. C. & Haas, L. 2010: Getting to Know Your Classroom Climate. JMU Center for Faculty Innovation Faculty Workshop Series 2010-2011, October.](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/misc/2010--CFI--WorkshopClassroomClimate.pdf)
+
+## Book Chapters and Contributions
 
 * Benton, M. C. &amp; Radziwill, N. M. 2018: Designing Personal Sustainability into Organizational
 Culture: The Case of Burning Man. Invited chapter in Case Studies in Sustainability. Garren, S. &amp;
 Brinkmann, R., Eds. New York, NY: Palgrave Macmillan.
+
+Contributed an interview on STEAM learning at Burning Man to:
+
+* Bingham, T., &amp; Conner, M. (2010). The new social learning: A guide to transforming organizations
+through social media. Berrett-Koehler Publishers.
 
 ## Published Book Reviews
 
