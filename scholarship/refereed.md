@@ -2,6 +2,7 @@
 
 As of 2017 September 13, I have 56 citations total on all of my publications [according to Google Scholar](https://scholar.google.com/citations?user=_7NJHlgAAAAJ&hl=en).
 
+* [Radziwill, N. M. & Benton, M. C., 2017: Design for X (DfX) in the Internet of Things (IoT). Journal of Quality Management Systems, Applied Engineering, & Technology Management (JoQAT). 2017(1).](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/publications/2017--QMS--DfXForIoT.pdf)
 * [Radziwill, N. M. & Benton, M. C., 2017: Bot or Not? Using Recurrence Maps to Characterize Tweet Interarrival Patterns. Accepted and in revision at Social Media and Society.](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/publications/2016--arXiv--BotOrNot.pdf)
     * Cited by 2
 * [Radziwill, N. M. & Benton, M. C., 2017: Evaluating Quality of Chatbots and Intelligent Conversational Agents. Software Quality Professional, June.](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/publications/2017--SQP--QualityOfChatBots.pdf)
