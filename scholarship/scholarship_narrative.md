@@ -26,4 +26,12 @@ I have been PI, Co-PI, or the recipient of:
 
 I have a total of roughly 56 citations of my work. So on average, I have published 2-3 refereed publications per year, been cited 3-4 times per year, and have 1-2 funding requests per year, with a success rate of $640K out of a total possible $2.8 million, or about 22% success rate by dollar amount. My STEM to STEAM publication (co-authored with Nicole Radziwill and one of our capstone students) is [the most popular paper downloaded from the STEAM Journal](http://scholarship.claremont.edu/steam/topdownloads.html), the top publication in this area (even more than the paper by John Maeda, the "father" of this field!).
 
+## Non-Traditional Scholarship
+
+I am one of ten finalists in an **_international_** coding competition, [The Weather Channel Samsung Developers Conference 2017 Innovation Challenge](http://twcsdcinnovationchallenge.com/). Becoming a finalist came with a $3000 prize, and I am now eligible for a $10,000 grand prize, a new Samsung smartphone, and travel and accommodations to the SDC in October 2017. In addition to professional development and scholarship, I'm also using the entire app development process as a case study in my software development courses.
+
+I also mentored and participated in the development with the 1st place team at the 2016 Lindsay Institute Care for the Caregiver Hack-a-Thon in Richmond, VA. This earned press attention from the Richmond Times Dispatch, the regional AARP newsletter, and earned $5000 for the students on the team. I helped the team to go on to win the second round which came with $10,000 in seed money to continue developing their app: [My Time for Caregivers](https://mytime4caregivers.com). I continue to work with this team.
+
+## Summary
+
 In short, I believe I have a very active and successful track record as a scholar, and a very bright and promising future that I believe merits an evaluation of **_excellent_**.
