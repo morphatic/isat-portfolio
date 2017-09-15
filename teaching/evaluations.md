@@ -5,18 +5,43 @@ I am [extremely knowledgeable and sought out for my expertise](/service/course_e
 * I have had a one-on-one exit interview with **_every_** student in **_every_** section I taught that semester (sometimes that meant scheduling over 80 interviews during exam week!) 
 * I had each student write a 3-5 page "exit essay" or narrative which asked them to think critically about their learning experience
 
+Here are both tabular and graphical representations of the number of end-of-semester interviews/narratives I have conducted/read, which overall total over 700:
+
+| Semester | # of Evaluation Narratives Reviewed |
+|:--------:|:-----------------------------------:|
+|   FA11   |                  48                 |
+|   SP12   |                 100                 |
+|   FA12   |                  70                 |
+|   SP13   |                  80                 |
+|   FA13   |                  34                 |
+|   SP14   |                  82                 |
+|   FA14   |                  74                 |
+|   SP15   |                  85                 |
+|   FA15   |                  50                 |
+|   SP16   |                  81                 |
+
+![Number of student narratives reviewed by Morgan C. Benton](/assets/num-narratives.jpg)
+
 In this section, I will describe key themes that have come up repeatedly in my course sections, particularly as relates to the [many iterations of CYOG](/teaching/cyog.md) that I attempted. I will use quotations from the student essays to illustrate and highlight those themes, and I will discuss my responses to student feedback, and if possible, the student responses to my responses. But first:
 
 ## A Comment on Numeric Course Evaluations
 
-The numeric scores that I received from students are fine. Sometimes they are above departmental averages, sometimes below, but there is no case in which my scores were a cause for alarm, or even concern. I do not put much stock in them, and by and large have not received much or any actionable guidance from them. The most valuable part of them was the written comments students made, but I got MUCH more information from the exit narratives that I will describe below.
+I am known across campus as an expert in pedagogy and course evaluation and am sought after to participate in and lead groups of faculty like the [Faculty Senate Academic Policies Committee and task forces on academic rigor and course evaluation, both at the departmental and university level](/service/course_evals.md). I am asked to present on these topics at [national and international conferences](/scholarship/international.md). I am invited to be a part of new and progressive educational initiatives internationally like:
 
-If you would like to see them, here are:
+* the Burning Man Educators Symposium in Napa, 
+* the First International Conference on Seasteading in French Polynesia, and
+* as educational partner for Digital Raign, an organization which hopes to harness the power of virtual reality and augmented reality for economic and social empowerment.
+
+That being said, the numeric scores that I received from students are fine. Sometimes they are above departmental averages, sometimes below, but there is no case in which my scores were a cause for alarm, or even concern. I do not put much stock in them, and by and large have not received much or any actionable guidance from them. The most valuable part of them was the written comments students made, but I got MUCH more information from the exit narratives that I will describe below.
+
+If you would like to see the more recent evaluations, you may access the scanned copies maintained by the ISAT Department, and/or I will make available most of the original hard-copy evaluation documents.
+
+My historical evaluations are downloadable from the website I prepared for my promotion to associate and tenure application:
 
 * [Scanned copies of ALL ISAT course evaluations prior to Fall 2011](http://tenure.umatter2.us/wp-content/uploads/2011/09/CourseEvals.zip)
 * [Scanned copies of my course evaluation summaries from 2001-2005 when I taught at New Jersey Institute of Technology](http://tenure.umatter2.us/wp-content/uploads/2011/09/AllNJITTeachingEvaluations.pdf)
 
-If you would like to see the more recent evaluations, you may access the scanned copies maintained by the ISAT Department, and/or I will make available most of the original evaluation documents.
+
 
 ## End-of-Semester Narratives
 
