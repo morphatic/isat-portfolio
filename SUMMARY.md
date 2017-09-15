@@ -49,5 +49,5 @@
  * [Publications](supporting_materials/publications.md)
  * [FAR-FAAPs](supporting_materials/far-faaps.md)
  * [Letters of Support](supporting_materials/letters.md)
- * [Student Evaluations](supporting_materials/evals.md)
+ * [Teaching Evaluations](supporting_materials/evals.md)
  * [Miscellaneous](supporting_materials/misc.md)
