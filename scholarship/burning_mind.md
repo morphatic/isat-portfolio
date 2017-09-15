@@ -48,7 +48,7 @@ We participated in Burning Man in 2013, 2014, and 2015. At all three events we o
 
 ### Pedagogical Innovations
 
-**TODO UPDATE THESE!!!!**
+I have [developed a lot of software](/teaching/courseware.md) for teaching my courses according to the 10 principles. Also, [the Choose-Your-Own-Grade philosophy](//teaching/cyog.md) draws a lot of its inspiration from the spirit of Burning Man.
 
 ## Impacts
 
