@@ -11,7 +11,7 @@ If the [teaching narrative](/teaching/teaching_narrative.md) describes the fores
         * [Reputation on StackOverflow](/teaching/stackoverflow.md)
         * [Morphatic--My Blog](/teaching/blog.md)
     3. Acceptable student evaluations:
-        * [Course Evaluations](/teaching/evaluations.md)
+        * [Evaluations by Students](/teaching/evaluations.md)
     4. Commitment to effective student advising:
         * [Capstone Projects](/teaching/capstones.md)
     5. Positivity and availability:
@@ -29,7 +29,7 @@ If the [teaching narrative](/teaching/teaching_narrative.md) describes the fores
         * [ISAT 190 and Spine Rubric Development](/teaching/spine.md)
 2. Criteria for **_Excellent_** evaluation:
     1. Strongly positive student response to teaching:
-        * [Course Evaluations](/teaching/evaluations.md)
+        * [Evaluations by Students](/teaching/evaluations.md)
     2. Peer recognition of ability and commitment:
     3. Evidence of instructional vitality:
         * [Special Topics Courses](/teaching/special.md)
