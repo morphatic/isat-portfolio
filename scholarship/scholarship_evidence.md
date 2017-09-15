@@ -29,8 +29,7 @@ As with the teaching section of this portfolio, if the [Scholarship Narrative](/
     * [Plan for Micro-Courses Pilot, Presented to Vice Provost for Academic Development, April, 2015](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/misc/2015--APC--PlanForMicroCoursePilot.pdf)
  10. [Un-funded grant proposals](/scholarship/unfunded.md)
 2. Criteria for **_Excellent_** evaluation:
-   1. Contributions to a focused, goal-directed, research program
-   2. Awards and external recognition
+   1. Contributions to a focused, goal-directed, research program<br>Undoubtedly, the [software](/teaching/courseware.md) that I've built towards supporting the [Choose-Your-Own-Grade pedagogy](/teaching/cyog.md) has been the primary result of my efforts.
    3. [Presentations at national/international conferences published in proceedings](/scholarship/international.md)
    4. [Book reviews](/scholarship/reviews.md)
    5. Books:
