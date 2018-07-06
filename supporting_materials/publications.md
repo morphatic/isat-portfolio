@@ -4,8 +4,8 @@ This is a full list of all of my publications.
 
 ## Refereed Papers
 
-* Benton, M. C., Radziwill, N. M., Purritano, A. W., & Gerhart, C. J. \(2018\). Blockchain for Supply Chain: Improving Transparency and Efficiency Simultaneously. _Software Quality Professional_, 20\(3\), p28-38.
-* Benton, M. C. & Radziwill, N. M. \(2017\). Quality and Innovation with Blockchain Technology. _Software Quality Professional_, 20\(1\), p35-44.
+* [Benton, M. C., Radziwill, N. M., Purritano, A. W., & Gerhart, C. J. \(2018\). Blockchain for Supply Chain: Improving Transparency and Efficiency Simultaneously. _Software Quality Professional_, 20\(3\), p28-38.](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/publications/2017--Benton--QualityAndInnovationWithBlockchain.pdf)
+* [Benton, M. C. & Radziwill, N. M. \(2017\). Quality and Innovation with Blockchain Technology. _Software Quality Professional_, 20\(1\), p35-44.](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/publications/2018--Benton--BlockchainForSupplyChain.pdf)
 * [Radziwill, N. M. & Benton, M. C., 2017: Design for X \(DfX\) in the Internet of Things \(IoT\). Journal of Quality Management Systems, Applied Engineering, & Technology Management \(JoQAT\). 2017\(1\).](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/publications/2017--QMS--DfXForIoT.pdf)
 * [Radziwill, N. M. & Benton, M. C., 2017: Bot or Not? Using Recurrence Maps to Characterize Tweet Interarrival Patterns. Accepted and in revision at Social Media and Society.](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/publications/2016--arXiv--BotOrNot.pdf)
 * [Radziwill, N. M. & Benton, M. C., 2017: Evaluating Quality of Chatbots and Intelligent Conversational Agents. Software Quality Professional, June.](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/publications/2017--SQP--QualityOfChatBots.pdf)
