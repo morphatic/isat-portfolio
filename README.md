@@ -6,7 +6,7 @@ First of all, _**thank you very much**_ for spending the time and energy to eval
 
 The portfolio is organized as follows:
 
-* **[Introduction & Organization](/README.md)**<br>The document you're reading now.
+* **[Introduction & Organization](/README.md)**<br>The page you're reading now.
 * **[Grand Overview](overview.md)**<br>Connects the dots. Articulates how the total is greater than the sum of the parts.
 * **[Teaching Section](/teaching/teaching.md)**
  * **[Teaching Narrative](/teaching/teaching_narrative.md)**<br>My teaching philosophy and the evolution of my craft as an instructor highlighting major lessons learned.
