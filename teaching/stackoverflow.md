@@ -6,11 +6,11 @@
 
 [![](/assets/Screen Shot 2017-09-11 at 9.14.25 PM.png)](https://stackoverflow.com/users/296725/morphatic)
 
-This is a screenshot of my profile page on Stack Overflow. As of the time of this writing, my reputation score is 3,336. That makes me rank number 40,416 out of 7,686,988 users or in the top 0.5%! A more typical assessment only ranks you out of "regular users," defined as anyone with a reputation of 200 or more. In that evaluation, I'm 40,416 out of 371,713, or in the top 11%.
+This is a screenshot of my profile page on Stack Overflow. As of the time of this writing, my reputation score is 3,941. That makes me rank number 39,613 out of 9,351,588 users or in the top 0.4%! A more typical assessment only ranks you out of "regular users," defined as anyone with a reputation of 200 or more. In that evaluation, I'm 39,613 out of 424,723, or in the top 9%.
 
-Another way to gauge my impact is by the number of times people have viewed responses that I have written to questions on the site. At current count, that is over 300,000 page views.
+Another way to gauge my impact is by the number of times people have viewed responses that I have written to questions on the site. At current count, that is over 382,000 page views.
 
-Yet another metric is the badges one has earned. I've got 36 Bronze, 20 Silver, and 3 Gold badges. Some of my favorites are:
+Yet another metric is the badges one has earned. I've got 39 Bronze, 27 Silver, and 4 Gold badges. Some of my favorites are:
 
 * **Famous Question:** a question with > 10,000 page views
 * **Necromancer:** have your answer selected and upvoted five times on a question > 60 days old (most questions on SO are answered within a few minutes, and rarely longer than 24 hours)

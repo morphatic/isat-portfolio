@@ -4,6 +4,33 @@ All of the syllabi for courses I have taught can be downloaded below. In many ca
 
 ## By Semester
 
+### Fall 2018
+
+* [ISAT 340](https://code4your.life/syllabi/isat-340/2018-fall/) ([pdf](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2018_3/2018_3_ISAT_340_0001_01_Syllabus.pdf))
+* [ISAT 345](https://code4your.life/syllabi/isat-345-software-engineering/2018-fall/) ([pdf](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2018_3/2018_3_ISAT_345_0001_01_Syllabus.pdf))
+* [ISAT 348](https://code4your.life/syllabi/isat-348-web-mobile-app-development/2018-fall/) ([pdf](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2018_3/2018_3_ISAT_348_0001_01_Syllabus.pdf))
+* [ISAT 480--Blockchain and Cryptocurrency](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2018_3/2018_3_ISAT_480_0003_01_Syllabus.pdf) (12 students)
+* [ISAT 492](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2018_3/2018_3_ISAT_492_0003_01_Syllabus.pdf) (10 students)
+
+### Summer 2018
+
+* [ISAT 252](https://code4your.life/syllabi/isat-252/2018-summer-maymester/) ([pdf](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2018_2/2018_2_ISAT_252_4101_01_Syllabus.pdf)) (12 students)
+
+### Spring 2018
+
+* [ISAT 252](https://code4your.life/syllabi/isat-252/2018-spring/) ([pdf](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2018_1/2018_1_ISAT_252_0001_01_Syllabus.pdf)) (2 sections; 52 students)
+* [ISAT 440](https://code4your.life/syllabi/isat-440/spring-2018/) ([pdf](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2018_1/2018_1_ISAT_440_0001_01_Syllabus.pdf))
+* [ISAT 480--Blockchain and Cryptocurrency](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2018_1/2018_1_ISAT_480_0004_01_Syllabus.pdf) (co-taught w/ Radziwill; 32 students)
+* [ISAT 493](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2018_1/2018_1_ISAT_493_0003_01_Syllabus.pdf) (10 students)
+
+### Fall 2017
+
+* [ISAT 340](https://code4your.life/syllabi/isat-340/2017-fall/) ([pdf](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2017_3/2017_3_ISAT_340_0001_01_Syllabus.pdf))
+* [ISAT 345](https://code4your.life/syllabi/isat-345-software-engineering/2017-fall/) ([pdf](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2017_3/2017_3_ISAT_345_0001_01_Syllabus.pdf))
+* [ISAT 348](https://code4your.life/syllabi/isat-348-web-mobile-app-development/2017-fall/) ([pdf](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2017_3/2017_3_ISAT_348_0001_01_Syllabus.pdf))
+* [ISAT 492](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2017_3/2017_3_ISAT_492_0004_01_Syllabus.pdf) (10 students)
+* [ISAT 498E](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2017_3/2017_3_ISAT_498E_0001_01_Syllabus.pdf) (1 student)
+
 ### Spring 2017
 * [ISAT 252](https://code4your.life/syllabi/isat-252/2017-spring/) ([pdf](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2017_1/2017_1_ISAT_252_0001_01_Syllabus.pdf)) (2 sections; 53 students)
 * [ISAT 440/CS 330](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2017_1/2017_1_ISAT_440_0001_01_Syllabus.pdf)
@@ -16,8 +43,8 @@ All of the syllabi for courses I have taught can be downloaded below. In many ca
 * ISAT 491 (7 students--unofficial)
 
 ### Fall 2016
-* [ISAT 340](http://340f16.umatter2.us/) ([pdf](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2016_3/2016_3_ISAT_340_0003_01_Syllabus.pdf))
-* [ISAT 345](http://345f16.umatter2.us/) ([pdf](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2016_3/2016_3_ISAT_345_0001_01_Syllabus.pdf))
+* [ISAT 340](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2016_3/2016_3_ISAT_340_0003_01_Syllabus.pdf)
+* [ISAT 345](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2016_3/2016_3_ISAT_345_0001_01_Syllabus.pdf)
 * [ISAT 348](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2016_3/2016_3_ISAT_348_0001_01_Syllabus.pdf)
 * [ISAT 430](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2016_3/2016_3_ISAT_430_0001_01_Syllabus.pdf) (co-taught w/ Radziwill)
 * [ISAT 497E](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2016_3/2016_3_ISAT_497E_0003_01_Syllabus.pdf) (8 students)
@@ -25,13 +52,13 @@ All of the syllabi for courses I have taught can be downloaded below. In many ca
 
 ### Spring 2016
 * [CS 330/ISAT 440](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2016_1/2016_1_CS_330_0001_01_Syllabus.pdf)
-* [ISAT 252](http://s16.umatter2.us/) ([pdf](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2016_1/2016_1_ISAT_252_0001_01_Syllabus.pdf)) (3 sections; 81 students)
+* [ISAT 252](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2016_1/2016_1_ISAT_252_0001_01_Syllabus.pdf) (3 sections; 81 students)
 * [ISAT 493](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2016_1/2016_1_ISAT_493_0002_01_Syllabus.pdf) (4 students)
 
 ### Fall 2015
-* [ISAT 340](http://f15.umatter2.us/) ([pdf](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2015_3/2015_3_ISAT_340_0001_01_Syllabus.pdf))
-* [ISAT 345](http://345f15.umatter2.us/) ([pdf](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2015_3/2015_3_ISAT_345_0001_01_Syllabus.pdf))
-* [ISAT 348](http://f15.umatter2.us/) ([pdf](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2015_3/2015_3_ISAT_348_0001_01_Syllabus.pdf))
+* [ISAT 340](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2015_3/2015_3_ISAT_340_0001_01_Syllabus.pdf)
+* [ISAT 345](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2015_3/2015_3_ISAT_345_0001_01_Syllabus.pdf)
+* [ISAT 348](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2015_3/2015_3_ISAT_348_0001_01_Syllabus.pdf)
 * [ISAT 492](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2015_3/2015_3_ISAT_492_0003_01_Syllabus.pdf) (5 students)
 * [ISAT 493](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2015_3/2015_3_ISAT_493_0005_01_Syllabus.pdf) (1 student)
 
@@ -45,7 +72,7 @@ All of the syllabi for courses I have taught can be downloaded below. In many ca
 ### Spring 2015
 * [CS 330](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2015_1/CS%20330%E2%80%94Social%20Issues%20In%20Computing%E2%80%942015%20Spring%20Syllabus.pdf)
 * [ISAT 131](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2015_1/2015_1_ISAT_131_0006_01_Syllabus.pdf) (led by McGraw)
-* [ISAT 252](http://252s15.umatter2.us/) ([pdf](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2015_1/ISAT%20252%E2%80%94Programming%20and%20Problem%20Solving%E2%80%942015%20Spring%20Syllabus.pdf)) (2 sections; 53 students)
+* [ISAT 252](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2015_1/ISAT%20252%E2%80%94Programming%20and%20Problem%20Solving%E2%80%942015%20Spring%20Syllabus.pdf) (2 sections; 53 students)
 * ISAT 348 (1 student; independent study)
 * [ISAT 480--Agile Development for Lean Startups](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2015_1/2015_1_ISAT_480_0007_01_Syllabus.pdf)
 * [ISAT 492](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2015_1/2015_1_ISAT_492_0009_01_Syllabus.pdf) (3 students)
@@ -54,15 +81,15 @@ All of the syllabi for courses I have taught can be downloaded below. In many ca
 * [ISAT 499C](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2015_1/2015_1_ISAT_499C_0001_01_Syllabus.pdf) (3 students)
 
 ### Fall 2014
-* [ISAT 340](http://f14.umatter2.us/) ([pdf](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2014_3/ISAT%20340%E2%80%94Software%20Development%E2%80%942014%20Fall%20Syllabus.pdf)) (3 sections; 53 students)
-* [ISAT 348](http://f14.umatter2.us/) ([pdf](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2014_3/ISAT%20348%E2%80%94The%20Multimedia%20Industry%E2%80%942014%20Fall%20Syllabus.pdf))
+* [ISAT 340](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2014_3/ISAT%20340%E2%80%94Software%20Development%E2%80%942014%20Fall%20Syllabus.pdf) (3 sections; 53 students)
+* [ISAT 348](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2014_3/ISAT%20348%E2%80%94The%20Multimedia%20Industry%E2%80%942014%20Fall%20Syllabus.pdf)
 * [ISAT 493](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2014_3/2014_3_ISAT_493_0002_01_Syllabus.pdf) (1 student)
 * [ISAT 497E](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2014_3/2014_3_ISAT_497E_0004_01_Syllabus.pdf) (3 students)
 * [ISAT 499B](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2014_3/2014_3_ISAT_499B_0002_01_Syllabus.pdf) (3 students)
 
 ### Spring 2014
 * [ISAT 131](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2014_1/ISAT%20131%20Discussion%20Section%20Syllabus--Benton.pdf)
-* [ISAT 252](http://252s14.umatter2.us/) ([pdf](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2014_1/2014_1_ISAT_252_0001_01_Syllabus.pdf)) (2 sections; 60 students)
+* [ISAT 252](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2014_1/2014_1_ISAT_252_0001_01_Syllabus.pdf) (2 sections; 60 students)
 * ISAT 348 (independent study)
 * [ISAT 480--Intro to Mobile App Development](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2014_1/2014_1_ISAT_480_0005_01_Syllabus.pdf) (w/ Salib)
 * [ISAT 492](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2014_1/2014_1_ISAT_492_0001_01_Syllabus.pdf) (1 student)
@@ -70,7 +97,7 @@ All of the syllabi for courses I have taught can be downloaded below. In many ca
 * [ISAT 680](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2014_1/2014_1_ISAT_640_MALT_01_Syllabus.pdf) (Malta)
 
 ### Fall 2013
-* [ISAT 340](http://f13.umatter2.us/) ([pdf](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2013_3/ISAT340Fall2013Syllabus_Benton.docx))
+* [ISAT 340](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2013_3/ISAT340Fall2013Syllabus_Benton.docx)
 * [ISAT 348](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2013_3/2013_3_ISAT_348_0001_01_Syllabus.pdf)
 * [ISAT 492](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2013_3/2013_3_ISAT_492_0004_01_Syllabus.pdf) (4 students)
 
@@ -85,7 +112,7 @@ All of the syllabi for courses I have taught can be downloaded below. In many ca
 ### Spring 2013
 * [IS 498--Individualized Study Capstone](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2013_1/2013_1_IS_498_0010_01_Syllabus.pdf)
 * [ISAT 131](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2013_1/ISAT%20131%20Discussion%20Section%20Syllabus--Benton.pdf)
-* [ISAT 252](http://252s13.umatter2.us/) ([pdf](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2013_1/ISAT252_2013Syllabus.pdf)) (3 sections; 83 students)
+* [ISAT 252](https://archive.umatter2.us/) ([pdf](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2013_1/ISAT252_2013Syllabus.pdf)) (3 sections; 83 students)
 * [ISAT 493](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2013_1/2013_1_ISAT_493_0004_01_Syllabus.pdf) (5 students)
 * [ISAT 640](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2013_1/SERM-DataMining-Syllabus_2013-04-02.docx) (Malta)
 * [ISAT 680](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2013_1/2013_1_ISAT_680_0002_01_Syllabus.pdf) (Independent Study for Malta student)
@@ -93,7 +120,7 @@ All of the syllabi for courses I have taught can be downloaded below. In many ca
 ### Fall 2012
 * [GISAT 160](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2012_3/2012_3_GISAT_160_0003_01_Syllabus.pdf)
 * [ISAT 340](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2012_3/2012_3_ISAT_340_0001_01_Syllabus.pdf)
-* [ISAT 348](http://isat348fall2012.umatter2.us/) ([pdf](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2012_3/2012_3_ISAT_348_0001_01_Syllabus.pdf))
+* [ISAT 348](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2012_3/2012_3_ISAT_348_0001_01_Syllabus.pdf)
 * [ISAT 480--Intro to Mobile App Development](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2012_3/2012_3_ISAT_480_0005_01_Syllabus.pdf) (w/ Salib)
 * [ISAT 492](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2012_3/2012_3_ISAT_492_0004_01_Syllabus.pdf) (5 students)
 
@@ -109,7 +136,7 @@ All of the syllabi for courses I have taught can be downloaded below. In many ca
 
 ### Spring 2012
 * [ISAT 131](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2012_1/2012_1_ISAT_131_0002_01_Syllabus.pdf) (led by McGraw)
-* [ISAT 252](http://isat252spring2012.umatter2.us/) ([pdf](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2012_1/2012_1_ISAT_252_0001_01_Syllabus.pdf)) (4 sections; 99 students)
+* [ISAT 252](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2012_1/2012_1_ISAT_252_0001_01_Syllabus.pdf) (4 sections; 99 students)
 * [ISAT 348](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2012_1/2012_1_ISAT_348_0001_01_Syllabus.pdf)
 * [ISAT 480--Advanced Web Application Development](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2012_1/2012_1_ISAT_480_0008_01_Syllabus.pdf)
 * [ISAT 493](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2012_1/2012_1_ISAT_493_0005_01_Syllabus.pdf) (9 students)

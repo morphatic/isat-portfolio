@@ -1,17 +1,18 @@
 # Capstones and Student Research
 
-I am one of the most active capstone advisors in all of ISAT. In eleven years I have mentored:
+I am one of the most active capstone advisors in all of ISAT. In twelve years I have mentored:
 
-* 34 Projects
-* 62 Students
+* 40 Projects
+* 75 Students
 * 2 Best Honors Theses
 * 1 ISAT Integration Award
 * 1 Best IA Thesis Award
-* 1 Successful business launched from capstone
+* 2 Successful businesses launched from capstone, one of which has received [national press coverage](http://wapo.st/2yJfMYV?tid=ss_mail&utm_term=.162ebd4f9771)
 * 1 NCUR publication
 * 1 Refereed journal publication
+* Over $100,000 in funding
 
-That's an average of 3 projects and 6 students per year. The ISAT capstone project is my favorite part of the major. Although it consumes a considerable amount of time and energy, I truly enjoy the opportunity to work one-on-one with students and build things that can have a lasting impact.
+That's an average of over 3 projects and 6 students per year. The ISAT capstone project is my favorite part of the major. Although it consumes a considerable amount of time and energy, I truly enjoy the opportunity to work one-on-one with students and build things that can have a lasting impact.
 
 For example, the work I did over several years with several students on the UMatter2Us project has been incorporated into the [custom courseware](/teaching/courseware.md) that I use to teach all of my classes currently.
 
@@ -97,3 +98,17 @@ Integration.
 33. Berry, R., Donovan, E., and Fitzpatrick, A. (2017) Dialoggr: An Application Using Quantified Self to Help Type 1 Diabetics Manage Their Chronic Condition.
 
 34. Cousins, C., Felice, A., Gilbert, B. (2017) Madison Conservation Corps: Software Development for Home Energy Audits.
+
+35. Abdou, A. (2017) Presence: A Social Network for 360° Photos and Videos.
+  * **Attracted nearly $100,000 in investor funding**
+  * **[Launched startup](http://presencevr.co/)**
+
+36. Benedetti, J., Bonham, J. (2017) Dialoggr 2: Physician Portal for Type 1 Diabetes Management.
+
+37. Nangle, R., Purritano, A. (2018) Dialoggr 3: Tracking Physical Activity and Modeling BGL (Blood-Glucose Level).
+
+38. Driver, T., Perry, B. (2018) JunoVR: Improving a Breath Sensor for Virtual Reality (VR) Applications.
+
+39. Campbell, S., Cox, C. (2018) Madison Conservation Corps: Auditing the World One Home At A Time.
+
+40. Ellison, B., Gerhart, C., Walsh, H., Wilbur, L. (2018) Simulating the Success of JMUScoop: A PWA to Promote Ridesharing at JMU.

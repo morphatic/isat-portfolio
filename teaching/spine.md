@@ -17,8 +17,10 @@ Following from this, I designed what Mike Deaton later described in a faculty me
 
 ## Spine Rubric Development and Testing
 
-In the Summer of 2014, I was a member of a team that honed and empirically tested the first draft of the ISAT Spine Rubric. This work led to my leading an effort to purchase video cameras and train ISAT students to record ALL of the ISAT Senior Symposium presentations. This past year that has culminated in the creation of a YouTube channel where all of the BSISAT presentations are posted.
+In the Summer of 2014, I was a member of a team that honed and empirically tested the first draft of the ISAT Spine Rubric. This work led to my leading an effort to purchase video cameras and train ISAT students to record ALL of the ISAT Senior Symposium presentations. This has culminated in the creation of a YouTube channel where all of the BSISAT presentations are posted.
 
 * **[The JMU ISAT YouTube Channel](https://www.youtube.com/channel/UCbYPzdPbZjPdJiU2X5L_cFA?view_as=subscriber)**
 
 In the summer of 2017, I organized the effort to get the Assessment Committee to collectively watch all 48 of the videos that are online and revise the rubric. We now have all of the data we need to empirically validate our rubric and use it to begin gathering evidence as to the effectiveness of the ISAT Spine. Given all of the time and effort that has gone into developing the Spine over the last few years, it is important to know whether or not it is meeting the objectives for which it was devised.
+
+In spring 2018, I again supervised the collection of videos for all of the BSISAT Senior Symposium presentations. They are currently in the process of being uploaded to YouTube.

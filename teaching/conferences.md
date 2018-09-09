@@ -2,6 +2,10 @@
 
 Participating and/or presenting in conferences and workshops focused primarily on teaching is a regular part of what I do. Here is a list of some of those in which I've participated. If I presented, there is a link to my slides.
 
+* **[ASQ Innovation Division Webinar May 2018](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/publications/2018--Benton--ASQWebinar_Blockchain.pdf)**<br>Benton, M. C. & Radziwill, N. M., 2018: Cryptocurrencies & Blockchain: A Recipe for Disruptive Innovation in Quality and Supply Chains. ASQ Innovation Division Webinar, May 14.
+
+* **[Burning Man Education Symposium November 2017](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/publications/2017--Benton--BurningMind_BurningManEducationSymposium.pdf)**<br>Benton, M. C. & Radziwill, N. M., 2017: The Burning Mind Project. Burning Man Education Symposium, November 7-10.
+
 * **[Presentation at HASTAC May 2016](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/publications/2016--HASTAC--CYOG.pdf)**<br>Benton, M. C. & Radziwill, N. M., 2016: Choose Your Own Grade: Instructional Civil Disobedience. HASTAC, Phoenix AZ, May 12.
 
 * **[Invited presentation at IAJC/ISAM 2014](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/misc/2014--IAJC-ISAM--10PrinciplesANewParadigm.pdf)**<br>Radziwill, N., and Benton, M. 2014. The 10 Principles: A New Paradigm for Collaboration & Innovation, IAJC/ISAM Annual Meeting, 2014 Sep 26.

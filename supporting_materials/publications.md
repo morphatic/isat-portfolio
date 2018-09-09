@@ -22,6 +22,7 @@ This is a full list of all of my publications.
 
 ## National or International Conference Proceedings or Presentations
 
+* [Radziwill, N. M., & Benton, M. C. 2018: Cryptocurrencies & Blockchain: A Recipe for Disruptive Innovation in Quality and Supply Chains. ASQ World Conference, Seattle, WA, 4/29-5/2.](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/publications/2018--Benton--ASQWebinar_Blockchain.pdf)
 * [Radziwill, N. M. & Benton, M. C., 2017: Neurodiversity Secrets for Innovation & Design, SXSW 2017, Austin TX, 2017-Mar-12](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/publications/2017--SXSW--NeurodiversitySecrets.pdf)
 * [Radziwill, N. M. & Benton, M. C., 2016: Design for Neurodiversity \(DfN\*\): A Design for X Process for Alternative Cognitive Styles. HASTAC, Phoenix AZ, May 13.](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/publications/2016--HASTAC--DesignForNeurodiversity.pdf)
 * [Benton, M. C. & Radziwill, N. M., 2016: Choose Your Own Grade: Instructional Civil Disobedience. HASTAC, Phoenix AZ, May 12.](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/publications/2016--HASTAC--CYOG.pdf)
@@ -55,8 +56,7 @@ This is a full list of all of my publications.
 ## Book Chapters and Contributions
 
 * Benton, M. C. & Radziwill, N. M. 2018: Designing Personal Sustainability into Organizational
-  Culture: The Case of Burning Man. Invited chapter in Case Studies in Sustainability. Garren, S. &
-  Brinkmann, R., Eds. New York, NY: Palgrave Macmillan.
+  Culture: The Case of Burning Man. in [_The Palgrave Handbook of Sustainability: Case Studies and Practical Solutions_. Garren, S. & Brinkmann, R., Eds. New York, NY: Palgrave Macmillan](https://www.palgrave.com/us/book/9783319713885).
 
 Contributed an interview on STEAM learning at Burning Man to:
 
@@ -98,6 +98,12 @@ _NOTE: I realize that some reviews appear twice. That is because SQP and QMJ are
 
 ### Morphatic
 
+* [Building a Collaborative 900-pixel App-Controlled LED Light Show: Part 2, 2018-Jul-27](https://morphatic.com/2018/07/27/building-a-collaborative-900-pixel-app-controlled-led-light-show-part-2/)
+* [Building a Collaborative 900-pixel App-Controlled LED Light Show: Part 1, 2018-Jul-26](https://morphatic.com/2018/07/26/building-a-collaborative-900-pixel-app-controlled-led-light-show-part-1/)
+* [Should I go to Japan to see the cherry blossoms? 2018-Jul-06](https://morphatic.com/2018/07/06/should-i-go-to-japan-to-see-the-cherry-blossoms/)
+* [Initializing Arrays In JavaScript WITHOUT Using Loops, 2018-May-25](https://morphatic.com/2018/05/25/initializing-arrays-in-javascript-without-using-loops/)
+* [Installing Kafka and Zookeeper on Vagrant Ubuntu 16.04, 2018-Mar-11](https://morphatic.com/2018/03/11/installing-kafka-and-zookeeper-on-vagrant-ubuntu-16-04/)
+* [Setting up an API Testing Server with Ubuntu 16.04, Vagrant, VirtualBox, NodeJs and FeathersJs, 2017-Nov-15](https://morphatic.com/2017/11/15/setting-up-an-api-testing-server-with-ubuntu-16-04-vagrant-virtualbox-nodejs-and-feathersjs/)
 * [Setting up a Secure API Server on DigitalOcean using Node Express, Mongoose, MongoDB, and Auth0, 2017-Mar-26](http://www.morphatic.com/2017/03/26/setting-up-a-secure-api-server-on-digitalocean-using-node-express-mongoose-mongodb-and-auth0/)
 * [Creating a Vagrant Box for Strongloop Development with Ubuntu 16.04 \(Xenial\)](http://www.morphatic.com/2016/10/05/creating-a-vagrant-box-for-strongloop-development-with-ubuntu-16-04-xenial/)
 * [Creating a Filter Pipe for Angular 2 \(in Ionic 2\)](http://www.morphatic.com/2016/06/23/creating-a-filter-pipe-for-angular-2-in-ionic-2/)
@@ -117,6 +123,3 @@ _NOTE: I realize that some reviews appear twice. That is because SQP and QMJ are
 * [Using OAuth for Managing User Accounts](http://www.morphatic.com/2015/10/30/using-oauth-for-managing-user-accounts/)
 * [Should College Be Free?](http://www.morphatic.com/2015/10/18/should-college-be-free/)
 * [A new Morphatic](http://www.morphatic.com/2015/10/18/a-new-morphatic/)
-
-
-
