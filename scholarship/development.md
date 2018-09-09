@@ -7,7 +7,7 @@ Here is a list of activities over and above those listed on my [**attendance at 
 * Loopback, MongoDB, and Continuous Integration. Webinar, Erin McKean, IBM. 2017-Mar-28
 * Harassment in the Sciences. Webinar. 2016-Sep-19
 * The Space Between Stories. Webinar series, Charles Eisenstein, 2015-16.
-* Empowering the Change Agent. Workshop, Charles Eisenstein. Charlottesville, VA, 2015-Mar-10. Resulted in the [Gifting Exercise](//teaching/gifting.md).
+* Empowering the Change Agent. Workshop, Charles Eisenstein. Charlottesville, VA, 2015-Mar-10. Resulted in the [Gifting Exercise](/teaching/gifting.md).
 * Summer Research Internship at Educational Testing Service (ETS), 2004
 * Summer School for Cognitive Tutoring Systems, Carnegie Mellon, 2004
 * Participant in Conference on Software Engineering Education and Training (CSEE&T) 2010, Pittsburgh
@@ -30,6 +30,7 @@ Here is a list of activities over and above those listed on my [**attendance at 
 Software and web development is a fast-paced field that is changing constantly.  In order to stay on top of it and be the best instructor/researcher possible I’ve needed to invest significant time in learning and learning about new languages, new versions of languages I already knew, and new trends in the field.  Here are some of the languages and technologies I’ve learned since coming to JMU:
 
 * **How to build mobile apps**<br>It's important to stress **MOBILE APPS DIDN'T EXIST TEN YEARS AGO**! Now ALL of our students want to make them and expect us to be able to teach them how. Not only have I completely taught myself how to do this, I've even led student teams that have won $15,000 awards because of my skill.
+* VueJs
 * Angular
 * Feathers
 * Visual Basic.Net

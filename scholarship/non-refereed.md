@@ -1,6 +1,6 @@
 # Non-Refereed Publications
 
-I include blog posts in this category. Writing on blogs can be quite influential. Thoughts may be less organized, but they reach a vast audience more quickly than other kinds of writing. I don't blog regularly, but I do tend to write a lot in short bursts. Many of my blog posts end up being 2000 words or more, which is the length of many refereed publications. There are 34 blog posts listed here, all written since 2012 which means I average 7-8 blog posts a year, or a little more than one every two months or so.
+I include blog posts in this category. Writing on blogs can be quite influential. Thoughts may be less organized, but they reach a vast audience more quickly than other kinds of writing. I don't blog regularly, but I do tend to write a lot in short bursts. Many of my blog posts end up being 2000 words or more, which is the length of many refereed publications. There are 40 blog posts listed here, all written since 2012 which means I average 7-8 blog posts a year, or a little more than one every two months or so.
 
 ## The Burning Mind Project
 
@@ -30,6 +30,12 @@ I started this website with Dr. Nicole Radziwill and it has led us to make a bro
 
 Morphatic is my techie blog. It's where I go to write tutorials, or muse on trends in technology. It averages about 100 pageviews per day, or 3000 per month, which is not bad for a blog that only gets sporadic attention. All of these posts have been written since October 2015.
 
+* [Building a Collaborative 900-pixel App-Controlled LED Light Show: Part 2, 2018-Jul-27](https://morphatic.com/2018/07/27/building-a-collaborative-900-pixel-app-controlled-led-light-show-part-2/)
+* [Building a Collaborative 900-pixel App-Controlled LED Light Show: Part 1, 2018-Jul-26](https://morphatic.com/2018/07/26/building-a-collaborative-900-pixel-app-controlled-led-light-show-part-1/)
+* [Should I go to Japan to see the cherry blossoms? 2018-Jul-06](https://morphatic.com/2018/07/06/should-i-go-to-japan-to-see-the-cherry-blossoms/)
+* [Initializing Arrays In JavaScript WITHOUT Using Loops, 2018-May-25](https://morphatic.com/2018/05/25/initializing-arrays-in-javascript-without-using-loops/)
+* [Installing Kafka and Zookeeper on Vagrant Ubuntu 16.04, 2018-Mar-11](https://morphatic.com/2018/03/11/installing-kafka-and-zookeeper-on-vagrant-ubuntu-16-04/)
+* [Setting up an API Testing Server with Ubuntu 16.04, Vagrant, VirtualBox, NodeJs and FeathersJs, 2017-Nov-15](https://morphatic.com/2017/11/15/setting-up-an-api-testing-server-with-ubuntu-16-04-vagrant-virtualbox-nodejs-and-feathersjs/)
 * [Setting up a Secure API Server on DigitalOcean using Node Express, Mongoose, MongoDB, and Auth0, 2017-Mar-26](http://www.morphatic.com/2017/03/26/setting-up-a-secure-api-server-on-digitalocean-using-node-express-mongoose-mongodb-and-auth0/)
 * [Creating a Vagrant Box for Strongloop Development with Ubuntu 16.04 (Xenial)](http://www.morphatic.com/2016/10/05/creating-a-vagrant-box-for-strongloop-development-with-ubuntu-16-04-xenial/)
 * [Creating a Filter Pipe for Angular 2 (in Ionic 2)](http://www.morphatic.com/2016/06/23/creating-a-filter-pipe-for-angular-2-in-ionic-2/)

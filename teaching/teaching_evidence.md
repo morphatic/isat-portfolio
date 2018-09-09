@@ -17,7 +17,7 @@ If the [teaching narrative](/teaching/teaching_narrative.md) describes the fores
     5. Positivity and availability:
         * [Capstone Projects](/teaching/capstones.md)
         * [Hacking Sessions](/teaching/hacking.md)
-        * [Letters of Reference](/teaching/letters.md)
+        * [Letters of Recommendation](/teaching/letters.md)
     6. Leadership, initiative, follow-through:
         * [Fueled](/teaching/fueled.md)
         * [Hack-A-Thons & Pop-Ups](/teaching/hacking.md)

@@ -2,10 +2,17 @@
 
 I have been particularly active since co-founding the Burning Mind Project. Since 2013, I have attended at least four scholarly gatherings per year.
 
+## 2018
+* ASQ World Conference (Seattle, WA), 2018 Apr 29 - May 2.
+* Internet of Things (IoT) Conference (Malmö, Sweden), 2018 Apr 25-26.
+* Invited Speaker (Blockchain Deep Dive) at Shenandoah Valley Technology Council Luncheon, 2018 Mar 1.
+* Invited Speaker (Intro to Blockchain) at Shenandoah Valley Technology Council Luncheon, 2018 Jan 25.
+
 ## 2017
 * Burning Man Education Symposium (San Francisco, CA), 2017 Nov 7-10.
-* First International Seasteading Conference (Papeete, Tahiti, French Polynesia), 2017 May 15-18.
+* Samsung Developers Conference (San Francisco, CA), 2017 Oct 17-20.
 * JMU Center for Assessment & Research (CARS) Assessment 101 Workshop, 2017 Jul 10-14
+* First International Seasteading Conference (Papeete, Tahiti, French Polynesia), 2017 May 15-18.
 * South By Southwest (SXSW) (Austin, TX) 2017 Mar 8-15
 
 ## 2016
