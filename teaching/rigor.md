@@ -2,7 +2,7 @@
 
 On June 16-17, 2011, I was asked to participate in a university-wide workshop organized by Provost Benson whose "charge was to gather faculty input and recommendations on how we might enhance the various kinds of academic challenges we already provide our students." Thirty-four faculty from across JMU convened for two full days to answer the questions: **What is rigor? and How can it be enhanced at JMU?**
 
-While I was not directly involved in writing [the final report](https://www.jmu.edu/facultysenate/wm_library/MadisonInstituteFinal.pdf), I was very engaged in the discussion, particularly in making sure that the debates that ranged around the concept of "rigor" were grounded in sound argument and empirical evidence.
+While I was not directly involved in writing [the final report](/assets/2011--Madison_Institute_on_Academic_Rigor_Report.pdf), I was very engaged in the discussion, particularly in making sure that the debates that ranged around the concept of "rigor" were grounded in sound argument and empirical evidence.
 
 > **By the end of the two-day Institute, participants generally agreed that academic rigor simply means _appropriately challenging our students_.**
 

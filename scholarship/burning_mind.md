@@ -24,21 +24,21 @@ The BMP was started in October 2012. Our primary activities have been to:
 
 ### Refereed Journal Publications
 
-[Radziwill, N. M., Benton, M. C., & Moellers, C. 2015. From STEM to STEAM: Reframing What it Means to Learn. The STEAM Journal (Claremont, CA), July.](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/publications/2015--STEAM--FromSTEMtoSTEAM.pdf)
+[Radziwill, N. M., Benton, M. C., & Moellers, C. 2015. From STEM to STEAM: Reframing What it Means to Learn. The STEAM Journal (Claremont, CA), July.](https://github.com/morphatic/sis-portfolio/raw/master/supporting_materials/publications/2015--STEAM--FromSTEMtoSTEAM.pdf)
 
-[Radziwill, N. M. & Benton, M. C., 2013. Burning Man - Quality and Innovation in the Spirit of Deming. Journal for Quality and Participation, April.](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/publications/2013--JQP--DemingAndBurningMan.pdf)
+[Radziwill, N. M. & Benton, M. C., 2013. Burning Man - Quality and Innovation in the Spirit of Deming. Journal for Quality and Participation, April.](https://github.com/morphatic/sis-portfolio/raw/master/supporting_materials/publications/2013--JQP--DemingAndBurningMan.pdf)
 
 ### Invited Presentations
 
 [Benton, M. C. & Radziwill, N. M. 2016. Choose Your Own Grade: Instructional Civil Disobedience. HASTAC, Phoenix AZ, May 12.
-](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/publications/2016--HASTAC--CYOG.pdf)
+](https://github.com/morphatic/sis-portfolio/raw/master/supporting_materials/publications/2016--HASTAC--CYOG.pdf)
 
 Radziwill, N. M. & Benton, M. C. 2016. Design for Neurodiversity (DfN*): A Design for X Process for Alternative Cognitive Styles. HASTAC, Phoenix AZ, May 13.
 
 [Radziwill, N., and Benton, M. 2014. The 10 Principles: A New Paradigm for Collaboration & Innovation, IAJC/ISAM Annual Meeting, 2014 Sep 26.
-](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/misc/2014--IAJC-ISAM--10PrinciplesANewParadigm.pdf)
+](https://github.com/morphatic/sis-portfolio/raw/master/supporting_materials/misc/2014--IAJC-ISAM--10PrinciplesANewParadigm.pdf)
 
-[Radziwill, N. M. & Benton, M. C., 2013: The Burning Mind Project - Creating a Culture of Radical Innovation in Technology Education. ATMAE Annual Meeting, New Orleans LA, November 21.](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/misc/2013--ATMAE--BurningMindProject.pdf)
+[Radziwill, N. M. & Benton, M. C., 2013: The Burning Mind Project - Creating a Culture of Radical Innovation in Technology Education. ATMAE Annual Meeting, New Orleans LA, November 21.](https://github.com/morphatic/sis-portfolio/raw/master/supporting_materials/misc/2013--ATMAE--BurningMindProject.pdf)
 
 Benton, M. C., 2013: I Will F You Up! Getting Rid of Grades. Transforming Learning Conference, Black Rock City NV, August 30.
 

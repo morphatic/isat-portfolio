@@ -79,7 +79,7 @@ Integration.
  
 25. Moellers, C., Chance, D., and Spinosa, R. (2015) "Zome": An Interactive Art Piece.
   * **Best Honors Thesis Award**
-  * **Resulted in highly-cited refereed publication**: [Radziwill, N. M., Benton, M. C ., & Moellers, C. (2015) From STEM to STEAM: Reframing What it Means to Learn. _The STEAM Journal_ (Claremont, CA), July.](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/publications/2015--STEAM--FromSTEMtoSTEAM.pdf)
+  * **Resulted in highly-cited refereed publication**: [Radziwill, N. M., Benton, M. C ., & Moellers, C. (2015) From STEM to STEAM: Reframing What it Means to Learn. _The STEAM Journal_ (Claremont, CA), July.](https://github.com/morphatic/sis-portfolio/raw/master/supporting_materials/publications/2015--STEAM--FromSTEMtoSTEAM.pdf)
 
 26. Campbell, B., and Walisko, E. (2015) Mobile Activity Recognition System.
 

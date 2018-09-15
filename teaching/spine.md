@@ -4,8 +4,8 @@ I have played a valued role in developing the new ISAT spine. I'll highlight two
 
 ## ISAT 190 Development
 
-* **[My ISAT 190 Initial Thoughts](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/misc/2015--Spine--Initial190Thoughts.pdf)**
-* **[My DRAFT ISAT 190 Syllabus](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/misc/2015--Spine--Draft190Syllabus.pdf)**
+* **[My ISAT 190 Initial Thoughts](https://github.com/morphatic/sis-portfolio/raw/master/supporting_materials/misc/2015--Spine--Initial190Thoughts.pdf)**
+* **[My DRAFT ISAT 190 Syllabus](https://github.com/morphatic/sis-portfolio/raw/master/supporting_materials/misc/2015--Spine--Draft190Syllabus.pdf)**
 
 In the Spring 2015 semester, I collaborated on a team with Mike Deaton, Catherine De Ridder Vignone, and Paul Henriksen to develop the first draft of learning objectives and a syllabus for the new ISAT 190 course. The notes that I produced were then used by the team that met over the summer of 2015 at the CFI Faculty Institute for ISAT 190. Of particular note, this is the first time that I explicitly introduced my favorite definition of learning into the ISAT curriculum:
 

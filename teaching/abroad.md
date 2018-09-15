@@ -4,7 +4,7 @@ I have participated in several different study abroad programs at JMU. About 25%
 
 ## Japan Study Abroad
 
-In 2010, 2012, 2013, and 2015 I took student groups to Tokyo and other destinations in Japan for a 5-week experience focused on learning the language and culture. I developed one new course for that: **[GHUM 252--Cross-cultural Perspectives in Japan](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2012_2/GHUM252JapanSyllabus_Benton_2012May.docx)**. As a result of this:
+In 2010, 2012, 2013, and 2015 I took student groups to Tokyo and other destinations in Japan for a 5-week experience focused on learning the language and culture. I developed one new course for that: **[GHUM 252--Cross-cultural Perspectives in Japan](https://github.com/morphatic/sis-portfolio/raw/master/supporting_materials/syllabi/2012_2/GHUM252JapanSyllabus_Benton_2012May.docx)**. As a result of this:
 
 1. Four of my former students have been able to subsequently live and work in Japan
 2. Another student is now doing his Masters in Journalism at Waseda University (#2 University in Japan) and is in the process of starting a [boy-band that will foster international understanding](https://www.guyjin48.com/).
@@ -16,7 +16,7 @@ In Summer 2015, I was co-director of JMU's 3-week study abroad trip to the Phili
 
 ## Sustainable Environmental Resource Management (SERM) in Malta
 
-I was half of the teaching team for [ISAT 640--Information and Technology Management](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2012_1/2012_2_ISAT_640_MALT_01_Syllabus.pdf) for four years (2010-2013). I helped pioneer that course in its online mode, which allowed the program to survive during the "lean years." I also was a member of the thesis committees for several of the SERM students.
+I was half of the teaching team for [ISAT 640--Information and Technology Management](https://github.com/morphatic/sis-portfolio/raw/master/supporting_materials/syllabi/2012_1/2012_2_ISAT_640_MALT_01_Syllabus.pdf) for four years (2010-2013). I helped pioneer that course in its online mode, which allowed the program to survive during the "lean years." I also was a member of the thesis committees for several of the SERM students.
 
 ## Other Programs
 

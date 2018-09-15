@@ -24,4 +24,4 @@ It is quite common for people to be left speechless by this exercise. It's as if
 
 This is a fantastic exercise with which to begin a semester or a day-long workshop, or any other group activity that requires collaboration and sharing. It creates a wonderful sense of intimacy and being in a "safe space."
 
-Benton, M. C. 2015. The Source of Innovation: Empathy, Gifts, & the 10 Principles. ASQ Innovation Division Conference, Charlottesville, VA, 2015 Sep 18-20. ([download slides](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/misc/2015--ASQ--SourceOfInnovationGiftingExercise.pdf))
+Benton, M. C. 2015. The Source of Innovation: Empathy, Gifts, & the 10 Principles. ASQ Innovation Division Conference, Charlottesville, VA, 2015 Sep 18-20. ([download slides](https://github.com/morphatic/sis-portfolio/raw/master/supporting_materials/misc/2015--ASQ--SourceOfInnovationGiftingExercise.pdf))
