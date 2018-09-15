@@ -1,6 +1,6 @@
 # Application for Promotion to Professor
 
-First of all, _**thank you very much**_ for spending the time and energy to evaluate my application and portfolio. Having served on the PAC, I know how time-consuming, and sometimes stressful, this process can be. As such, I hope you'll find this application to be well-organized, and clearly articulated. I hope to make it easy for you to reach the conclusion that I have indeed earned the rank of Professor in the Department of Integrated Science & Technology.
+First of all, _**thank you very much**_ for spending the time and energy to evaluate my application and portfolio. Having served on the PAC, I know how time-consuming, and sometimes stressful, this process can be. As such, I hope you'll find this application to be well-organized, and clearly articulated. I hope to make it easy for you to reach the conclusion that I have indeed earned the rank of Professor in the School of Integrated Sciences.
 
 ## Organization
 
