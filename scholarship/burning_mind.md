@@ -1,6 +1,6 @@
 # The Burning Mind Project
 
-[![](http://www.burningmindproject.org/wp-content/uploads/2012/11/bmp_header_logo.png)](http://www.burningmindproject.org/)
+[![](/assets/bmp_header_logo.png)](http://www.burningmindproject.org/)
 
 The **[Burning Mind Project](http://www.burningmindproject.org/)** was established to explore how [the 10 Principles of Burning Man](http://www.burningmanproject.org/about/ten-principles) can be applied to transform the institution of higher education from the inside out.
 
@@ -48,7 +48,7 @@ We participated in Burning Man in 2013, 2014, and 2015. At all three events we o
 
 ### Pedagogical Innovations
 
-I have [developed a lot of software](/teaching/courseware.md) for teaching my courses according to the 10 principles. Also, [the Choose-Your-Own-Grade philosophy](//teaching/cyog.md) draws a lot of its inspiration from the spirit of Burning Man.
+I have [developed a lot of software](/teaching/courseware.md) for teaching my courses according to the 10 principles. Also, [the Choose-Your-Own-Grade philosophy](/teaching/cyog.md) draws a lot of its inspiration from the spirit of Burning Man.
 
 ## Impacts
 

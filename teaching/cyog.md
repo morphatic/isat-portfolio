@@ -17,7 +17,7 @@ Most syllabi contain some version of the following table:
 
 The underlying formula used to calculate the final percentage looks like the following:
 
-![](http://tenure.umatter2.us/wp-content/uploads/2011/09/Screen-shot-2011-09-11-at-11.23.26-PM.png)
+![](/assets/arithmetic_mean.png)
 
 Where $${ w }_{ i }$$ is the weight of each element to be averaged and $${ x }_{ i }$$ is the score assigned to each element that goes into the average.
 
@@ -55,7 +55,7 @@ Students are intuitively aware of the lack of consistency in how grades are assi
 
 Since there is no way to observe directly the academic ability of an individual on any given task, we use proxy tasks such as test questions, or essays or assignments to guess at what a student “really knows” or can do.  The field of psychometrics aims to make these observations as scientific and reliable as possible.  Classical test theory describes a property of test questions called “discrimination.”  Using the classical definition, discrimination is the power of any given question to discriminate between test takers who have mastered a particular ability or not, and is defined by the following formula:
 
-![](http://tenure.umatter2.us/wp-content/uploads/2011/09/Screen-shot-2011-09-12-at-12.39.41-AM.png)
+![](/assets/discrimination.png)
 
 In which U is the number of test takers in the upper quartile who answered a given question correctly, and L is the number of test takers in the bottom quartile who answered that question correctly.  Thus if the same number of high and low scorers got the question correct, the question would have a discrimination score of zero, whereas if all of the high scorers got it right and all of the low scorers got it wrong, the discrimination would be one.  If more of the low scorers got it right than high scorers the discrimination would be negative and indicate a flawed or “trick” question.  Some of the online learning management systems such as Blackboard will actually calculate a discrimination value for tests delivered online in this fashion.
 
@@ -63,7 +63,7 @@ The major problem with classical test theory is that in the given scenario, ther
 
 IRT defines what is referred to as an Item Response Function (IRF).  The most common IRF used in professional testing scenarios is the three-parameter model which is defined as follows:
 
-![](http://tenure.umatter2.us/wp-content/uploads/2011/09/threeparametermodel.png)
+![](/assets/threeparametermodel.png)
 
 In which $${ p }_{ i }(\theta )$$ is the probability that a test taker with ability $$\theta$$ will respond correctly to a question _i_.  The three parameters of the model are typically described as follows:
 
@@ -73,7 +73,7 @@ In which $${ p }_{ i }(\theta )$$ is the probability that a test taker with abil
 
 And when graphed, typical IRT curves look as follows:
 
-![](http://tenure.umatter2.us/wp-content/uploads/2011/09/Screen-shot-2011-09-12-at-12.56.47-AM.png)
+![](/assets/irt_curves.png)
 
 Theta is the underlying ability that is being measured.  A theta of zero indicates that a test-taker is of average ability and the x-axis measures standard deviations above or below the mean.  The y-axis is the probability of a correct answer.  In the figure above, the curves to the left are easier than those to the right, meaning test takers with a lower theta will have a higher probability of a correct answer.  Steeper slopes indicate higher discrimination power.  When there is a probability that the test taker can guess the correct answer, as with a multiple choice question, the curve will intersect the y-axis in a non-zero position.
 
@@ -159,7 +159,7 @@ For the next several semesters I experimented with different forms of "portfolio
 
 ### Spring 2012: CYOG Unleashed
 
-By this point, I knew that I had earned tenure and no longer felt under pressure by my colleagues not to experiment with CYOG. The [Spring 2012 ISAT 252 Syllabus explains](http://isat252spring2012.umatter2.us/syllabus/grades-and-evaluation/) that students would have the opportunity to select their own grade (within reason) with my input. By this point, I had learned that student motivation was not a simple construct, and that inspiring and bringing along dozens of students at a time **_without_** carrots and sticks was a difficult task. I could also tell that word was getting out. Enrollment by non-ISAT students looking for an easy elective was increasing in my classes.
+By this point, I knew that I had earned tenure and no longer felt under pressure by my colleagues not to experiment with CYOG. The [Spring 2012 ISAT 252 Syllabus explains](https://github.com/morphatic/sis-portfolio/raw/master/supporting_materials/syllabi/2012_1/2012_1_ISAT_252_0001_01_Syllabus.pdf) that students would have the opportunity to select their own grade (within reason) with my input. By this point, I had learned that student motivation was not a simple construct, and that inspiring and bringing along dozens of students at a time **_without_** carrots and sticks was a difficult task. I could also tell that word was getting out. Enrollment by non-ISAT students looking for an easy elective was increasing in my classes.
 
 ### Fall 2012-Spring 2015: Steady Innovation
 
@@ -179,15 +179,15 @@ Despite all of these efforts, it is difficult to conclude that I was ever able t
 
 In the spring 2015 semester I had [an email exchange with a student that completely demoralized me](https://github.com/morphatic/sis-portfolio/raw/master/supporting_materials/misc/2015--Frattaroli--ConversationAboutSkippingClasses.pdf). In a nutshell, despite insisting that I was the "most intriguing/inspiring professor" he had ever had at JMU, he had decided not to come to class at all that semester since he knew he could pick his own grade and he needed to focus on other classes more. He was frank about his decision, even when confronted with how illogical and unethical it was. It was after this exchange that I decided that while CYOG might work in an atmosphere where a significant number of other professors was doing it, it did not serve students well in a context where I was the only one doing it. And in several years of trying, I was never successful in convincing even one other professor to try it.
 
-In the fall 2015 semester, [I let my students know that CYOG was no longer an automatic option](http://f15.umatter2.us/syllabus/grades/)--they had to earn it. Instead, the default option was that [they had to earn points by completing badges](http://f15.umatter2.us/syllabus/grades/the-points-accumulation-system/). They still had an enormous amount of choice in how to spend their time in the form of a [broad menu of badges](http://f15.umatter2.us/badges/). Points were based roughly on how many hours students spent on the class, following from the [research indicating that time-on-task is the only reliable predictor of learning](http://www.education.com/reference/article/time-on-task/).
+In the fall 2015 semester, [I let my students know that CYOG was no longer an automatic option](https://github.com/morphatic/sis-portfolio/raw/master/supporting_materials/syllabi/2015_3/2015_3_ISAT_340_0001_01_Syllabus.pdf)--they had to earn it. Instead, the default option was that they had to earn points by completing badges. They still had an enormous amount of choice in how to spend their time in the form of a broad menu of badges. Points were based roughly on how many hours students spent on the class, following from the [research indicating that time-on-task is the only reliable predictor of learning](https://files.eric.ed.gov/fulltext/ED282491.pdf).
 
-I hated it. The students didn't really like it either. In the spring, I didn't give anyone the option of CYOG. It turns out, I had hit on exactly the [worst conditions for allowing students to synthesize happiness](https://www.ted.com/talks/dan_gilbert_asks_why_are_we_happy). It turns out, nobody wants to know how the sausage gets made. I was explaining my grading philosophy in super-fine detail because I felt guilty about grading students at all. They would rather not have it explained. In [fall 2016, I went back to CYOG with a newly explicated philosophy](http://340f16.umatter2.us/syllabus/grades/) because I hate it less than I hated the points-accumulation system.
+I hated it. The students didn't really like it either. In the spring, I didn't give anyone the option of CYOG. It turns out, I had hit on exactly the [worst conditions for allowing students to synthesize happiness](https://www.ted.com/talks/dan_gilbert_asks_why_are_we_happy). It turns out, nobody wants to know how the sausage gets made. I was explaining my grading philosophy in super-fine detail because I felt guilty about grading students at all. They would rather not have it explained. In [fall 2016, I went back to CYOG with a newly explicated philosophy](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2016_3/2016_3_ISAT_340_0003_01_Syllabus.pdf) because I hate it less than I hated the points-accumulation system.
 
 ### The Current State of the Art
 
 Explain less. Expect more. I have [consolidated all of my courses into a single website](https://code4your.life). I've found that students don't hate the points-accumulation system if you don't tell them what the points represent. On the other hand, they are still pretty bad at prioritizing and managing their time.
 
-![](/assets/Screen Shot 2017-06-18 at 3.23.01 PM.png)
+![](/assets/semester_progress_chart.png)
 
 This chart represents the average student in my course this past spring. All of them did extremely well over the first 5-6 weeks when there was still a lot of handholding. However, mid-semester when I set them loose to pursue the course material following different paths of their own choosing, their effort basically flatlined. It did not pick up again until the end of the semester when they all realized they needed to turn in work to get enough points to pass.
 
