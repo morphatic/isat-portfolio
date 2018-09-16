@@ -1,4 +1,4 @@
-# Breadth of Teaching Contexts
+# Teaching Across Contexts
 
 The SIS Faculty Evaluation Guidelines specify in section II.B.2.e that in order to be deemed _Excellent_ in teaching, a faculty member must demonstrate "quality teaching in a variety of learning contexts." Below is a simple list of the different contexts in which I've taught. Descriptions of and evidence for the quality of the content taught in these contexts is documented in the other sections of this portfolio. 
 

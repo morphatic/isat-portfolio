@@ -31,8 +31,14 @@ I am a member of the [ISAT SET Task Force](/service/course_evals.md) and have be
 on the development of a new instrument for doing course evaluations. Here are my results
 from Fall 2017 and Spring 2018, the first two semesters in which the new instrument was piloted.
 
-* [Fall 2017]()
-* [Spring 2018]()
+* ISAT 340--Fall 2017--Section 1 [PDF](https://github.com/morphatic/sis-portfolio/raw/master/supporting_materials/evals/2017_3/2017_3_ISAT_340_01.pdf) [CSV](https://github.com/morphatic/sis-portfolio/raw/master/supporting_materials/evals/2017_3/2017_3_ISAT_340_01.csv)
+* ISAT 345--Fall 2017--Section 1 [PDF](https://github.com/morphatic/sis-portfolio/raw/master/supporting_materials/evals/2017_3/2017_3_ISAT_345_01.pdf) [CSV](https://github.com/morphatic/sis-portfolio/raw/master/supporting_materials/evals/2017_3/2017_3_ISAT_345_01.csv)
+* ISAT 348--Fall 2017--Section 1 [PDF](https://github.com/morphatic/sis-portfolio/raw/master/supporting_materials/evals/2017_3/2017_3_ISAT_348_01.pdf) [CSV](https://github.com/morphatic/sis-portfolio/raw/master/supporting_materials/evals/2017_3/2017_3_ISAT_348_01.csv)
+* ISAT 252--Spring 2018--Section 1 [PDF](https://github.com/morphatic/sis-portfolio/raw/master/supporting_materials/evals/2018_1/2018_1_ISAT_252_01.pdf) [CSV](https://github.com/morphatic/sis-portfolio/raw/master/supporting_materials/evals/2018_1/2018_1_ISAT_252_01.csv)
+* ISAT 252--Spring 2018--Section 2 [PDF](https://github.com/morphatic/sis-portfolio/raw/master/supporting_materials/evals/2018_1/2018_1_ISAT_252_02.pdf) [CSV](https://github.com/morphatic/sis-portfolio/raw/master/supporting_materials/evals/2018_1/2018_1_ISAT_252_02.csv)
+* ISAT 440--Spring 2018--Section 1 [PDF](https://github.com/morphatic/sis-portfolio/raw/master/supporting_materials/evals/2018_1/2018_1_ISAT_440_01.pdf) [CSV](https://github.com/morphatic/sis-portfolio/raw/master/supporting_materials/evals/2018_1/2018_1_ISAT_440_01.csv)
+* ISAT 480--Spring 2018--Section 4 [PDF](https://github.com/morphatic/sis-portfolio/raw/master/supporting_materials/evals/2018_1/2018_1_ISAT_480_04.pdf) [CSV](https://github.com/morphatic/sis-portfolio/raw/master/supporting_materials/evals/2018_1/2018_1_ISAT_480_04.csv)
+* ISAT 252--Summer 2018--Section 4101 [PDF](https://github.com/morphatic/sis-portfolio/raw/master/supporting_materials/evals/2018_2/2018_2_ISAT_252_4101.pdf) [CSV](https://github.com/morphatic/sis-portfolio/raw/master/supporting_materials/evals/2018_2/2018_2_ISAT_252_4101.csv)
 
 ## Old ISAT Departmental Course Evaluations
 
