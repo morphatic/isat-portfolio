@@ -1,5 +1,10 @@
 # Custom Courseware
 
+It's very difficult to describe software with words and pictures. I've created a video of some of my work
+that you can watch on YouTube:
+
+[![](/assets/custom_courseware.png)](https://www.youtube.com/watch?v=h4blC8shcWk)
+
 When it comes to educational technology, my guiding metaphor is:
 
 > **To keep my finger on the pulse of the class.**
@@ -146,7 +151,7 @@ The new profile pages also contain a personalized, constantly updating graph sho
 
 Above is a student who appears to be on an "A+" trajectory still in the 4th week of the course. Below is a graph that shows a student who completed the semester well, but who didn't do a lot towards the middle and had to scramble to earn enough points to pass towards the end:
 
-![](/assets/Screen Shot 2017-06-18 at 3.23.01 PM.png)
+![](/assets/semester_progress_chart.png)
 
 Not only do these graphics inform students, but they also inspire them to learn how to write the code to generate them. Both are built using an open-source JavaScript data visualization library called D3.
 
