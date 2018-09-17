@@ -2,6 +2,7 @@
 
 I spend a great deal of time with students. Here are a number of my more notable accomplishments:
 
+* [**National** recognition in the _Washington Post_ for Tony Britt's Spotter Charts](https://www.washingtonpost.com/news/dc-sports-bog/wp/2017/10/23/what-is-that-giant-chart-espns-sean-mcdonough-is-holding-and-where-did-it-come-from/?utm_term=.094cc90e5ca4), software that I helped write in collaboration with two students, Adam Maas and Jason Farber, as their capstone project in 2012.
 * [Mentored **75 students in 40 capstones**, with several award-winning projects and a refereed publication](/teaching/capstones.md)
     * [Radziwill, N. M., Benton, M. C., & Moellers, C. 2015: From STEM to STEAM: Reframing What it Means to Learn. The STEAM Journal (Claremont, CA), July.](https://github.com/morphatic/sis-portfolio/raw/master/supporting_materials/publications/2015--STEAM--FromSTEMtoSTEAM.pdf)
     * Rapp, B., Ramsey, D. & Benton, M. C. (2010). NextStep: A Web-based site feasibility analysis tool for behind-the-meter wind power systems. Meeting of the American Wind Energy Association (AWEA), Los Angeles CA, May 22.

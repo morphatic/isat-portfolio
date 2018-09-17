@@ -3,7 +3,7 @@
 I have been a consistent and energetic participant in service that serves students, ISAT, JMU, my profession, and my community.  Wherever possible, I have sought to use my particular strengths and talents in my service, i.e.
 
 * my deep understanding of technology, and
-* my understanding of learning, motivation, and pedagogy.  
+* my understanding of learning, motivation, assessment, and pedagogy.  
 
 I believe I have pursued opportunities to use my expertise effectively within the ISAT Department, at the University level, and increasingly in national and international contexts. I will summarize my activities and accomplishments here.
 
@@ -32,7 +32,13 @@ My knowledge of course evaluation, pedagogy, and motivation has become of value 
     * Examine JMU's concept and culture of academic rigor
     * Guide the administration on the best way to roll-out and implement online course evaluations
 
-At the department level, I have served on the Assessment Committee for ten years, and now chair it. I have contributed to our ABET process, the development of the PCHOM Spine Rubric, the Foundations Review and Redesign Committees, and now the Student Evaluations of Teaching (SET) Task Force.
+At the department level, I have served on the Assessment Committee for ten years, and now chair it. I have contributed to
+
+* our ABET process,
+* the development of the PCHOM Spine Rubric,
+* the Foundations Review and Redesign Committees,
+* the Student Evaluations of Teaching (SET) Task Force, and
+* the Computing Sector Reboot Task Force, Chairing the Concentration Subcommittee
 
 In addition to the use of my intellectual and professional gifts, I am a regular financial contributor to scholarships in the ISAT Department--the Maury Wolla Scholarship, and the Richard Roberds Scholarship--to which I make an automatic contribution every pay period.
 

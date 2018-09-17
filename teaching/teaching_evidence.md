@@ -31,6 +31,7 @@ If the [teaching narrative](/teaching/teaching_narrative.md) describes the fores
         * [Hacking, Hack-a-Thons, & Pop-Ups](/teaching/hacking.md)
         * [Custom Courseware](/teaching/courseware.md)
         * [Choose-Your-Own-Grade](/teaching/cyog.md)
+        * [Pre-Semester Questionnaires](/teaching/questionnaires.md)
     4. Leadership in non-traditional learning:
         * [Choose-Your-Own-Grade](/teaching/cyog.md)
         * [Fueled](/teaching/fueled.md)

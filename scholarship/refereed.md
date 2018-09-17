@@ -23,6 +23,6 @@ As of 2017 September 9, I have 107 citations total on all of my publications [ac
     * Cited by 18
 * [Radziwill, N. M. & Benton, M. C., 2013: Burning Man - Quality and Innovation in the Spirit of Deming. Journal for Quality and Participation, April.](https://github.com/morphatic/sis-portfolio/raw/master/supporting_materials/publications/2013--JQP--DemingAndBurningMan.pdf)
     * Cited by 10
-* [Benton, M. C. (2008). The development and evaluation of software to foster professional development in educational assessment. Ph.D. Dissertation, New Jersey Institute of Technology, 295 pp., AAT 3443059. Available from ProQuest](http://gradworks.umi.com/34/43/3443059.html.)
+* [Benton, M. C. (2008). The development and evaluation of software to foster professional development in educational assessment. Ph.D. Dissertation, New Jersey Institute of Technology, 295 pp., AAT 3443059. Available from ProQuest](https://eric.ed.gov/?id=ED527523)
     * Cited by 1 Journal of Information Systems article in 2008
 * [Benton, M. C. (2002). Standards 101, A tutorial for IT managers. Journal of the Standards Engineering Society, 54(1&2), 10-15.](https://github.com/morphatic/sis-portfolio/raw/master/supporting_materials/publications/2002-Benton-Standards101.pdf)

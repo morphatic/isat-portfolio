@@ -49,6 +49,7 @@ Part of my transition from Assistant to Full Professor at JMU has been about how
 
 ## Other University-Level Service
 
+* **Qualtrics Replacement RFP, 2018-2019:** Our contract with Qualtrics is set to expire soon. I have been asked to help JMU decide whether or not to replace it, and if so, what to replace it with.
 * **Provost Search, 2016-2017:** In my capacity on the Faculty Senate Steering Committee, I met all of the provost candidates, ate with them, and watched their presentations. I delivered written feedback. I had the most favorable opinion of Dr. Heather Coltman, whom we ended up hiring.
 * **President's Academic Calendar Committee, 2016-2017:** Led by Donna Harper, JMU's Vice President for Access and Enrollment Management, this was a team with representatives from all divisions of JMU. I represented faculty via the Faculty Senate. Our task was to devise, consider, and make recommendations regarding JMU's Academic Calendar. The immediate need was to come better into compliance with federal financial aid regulations, but it became an opportunity to take a holistic look at overhauling the schedule. I ran a data-gathering effort that ended up receiving feedback from 80% of JMU faculty, and I wrote and delivered a summary report on that. A decision on changing the calendar is still pending.
 * **JMU Fueled Steering Committee, 2015-present:** See [my description of Fueled here](/teaching/fueled.md). 

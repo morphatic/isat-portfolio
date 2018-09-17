@@ -7,6 +7,7 @@ I have been particularly active since co-founding the Burning Mind Project. Sinc
 * Internet of Things (IoT) Conference (Malmö, Sweden), 2018 Apr 25-26.
 * Invited Speaker (Blockchain Deep Dive) at Shenandoah Valley Technology Council Luncheon, 2018 Mar 1.
 * Invited Speaker (Intro to Blockchain) at Shenandoah Valley Technology Council Luncheon, 2018 Jan 25.
+* Note-taker at bi-weekly, global, virtual meetings of the [Hyperledger Training & Education Working Group](https://www.hyperledger.org/blog/2017/12/13/introducing-the-hyperledger-training-education-working-group)
 
 ## 2017
 * Burning Man Education Symposium (San Francisco, CA), 2017 Nov 7-10.
