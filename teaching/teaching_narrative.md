@@ -60,11 +60,10 @@ teach regularly that did not even exist (or were not popular/mainstream) in 2006
   * Test-Driven Development (TDD is still gaining momentum)
   * **...and A LOT more...**
 
-I spend an **ENORMOUS** amount of time just trying to keep up with the latest developments in the field, and 
-I have made next to no effort to learn things like "big data" or machine learning. (Here is a [partial list 
-of things I've spent significant time learning.](/scholarship/development.md)) There are many, many things 
-that I simply don't have time to learn about. I spend a significant amount of time just figuring out which 
-technologies are the highest priority for me to learn next!
+I spend an **ENORMOUS** amount of time just trying to keep up with the latest developments in the field. 
+(Here is a [partial list of things I've spent significant time learning.](/scholarship/development.md)) 
+There are many, many things that I simply don't have time to learn about. I spend a significant amount 
+of time just figuring out which technologies are the highest priority for me to learn next!
 
 In order to deepen my subject matter knowledge I have leveraged the interests, enthusiasm, and free time 
 of students to help me stay current.  I  [sponsored weekly "hacking sessions"](/teaching/hacking.md) from 
@@ -72,12 +71,12 @@ of students to help me stay current.  I  [sponsored weekly "hacking sessions"](/
 about the technologies they would like to use for solving problems.  I have [mentored a large number of senior 
 projects](/teaching/capstones.md), many of which required me to work hard to keep up with my students, who 
 chose cutting edge platforms upon which to build.  I have [attended conferences and 
-workshops](/scholarship/meetings.md) focused on software development such as the 23rd IEEE-CS Conference 
-on Software Engineering Education and Training \(CSEE&T 2010\) in Pittsburgh, and the Agile Software 
+workshops](/scholarship/meetings.md) focused on software development such as the SXSW Festival in Austin, TX (2016, 2017), 
+the 2017 Samsung Developers Conference (where I placed in a hack-a-thon) in San Francisco, and the Agile Software 
 Development 2011 Conference in Salt Lake City where I met, interacted with, and learned from some of the 
 most famous members of the agile software development community like Alistair Cockburn.  I have regularly 
-taught a number of [special topics courses](/teaching/special.md), usually without compensation or having 
-it count toward my load. I have also kept my skills sharp by employing them in the service of outside 
+taught a number of [special topics courses](/teaching/special.md), frequently without compensation or having 
+it count toward my teaching load. I have also kept my skills sharp by employing them in the service of outside 
 consulting clients and on [research grants](/scholarship/funding.md).  I feel comfortable saying that I 
 know as much or more than any other person at JMU about web and mobile app development.
 
@@ -95,7 +94,7 @@ research](/teaching/cyog.md), and the ongoing [development of a web-based learni
 system](/teaching/courseware.md) \(LMS\) I am developing called Code4YourLife.  I have reviewed articles 
 for journals and conferences related to information systems and computing education such as the 
 Journal of Information Systems Education and Computers & Education.  I have [taught in a number of 
-different types of classes, contexts and formats including lecture courses](/teaching/contexts.md), lab 
+different types of classes, contexts and formats](/teaching/contexts.md) including lecture courses, lab 
 courses, discussion sections, independent studies, international programs \(SERM\), and through the 
 development of a summer study abroad program to Japan.  I have spent a great deal of time discussing 
 effective pedagogy as a member of team-teaching teams and through one-on-one conversations colleagues 
@@ -151,8 +150,8 @@ However, I spent a great deal of time and energy working to convince them that i
 worthwhile use of their time to devote their energy to the class.   I appealed to their economic 
 sensibilities--college is expensive and it would be a waste of money not to make the most of the opportunity 
 you have in this class.  I spent a lot of time in individual discussions with students so that I could learn 
-their interests and help them to design assignments for themselves that were in line with those interests.  
-I made it clear that I would be available for them if they would only engage with the material.
+their interests and help them to design assignments for themselves that were in line with those interests. I 
+made it clear that I would be available for them if they would only engage with the material.
 
 I set up a video camera in my office and every day after class I would talk about the experience, and, as 
 such, kept a video journal of my experience.  I also video taped all of the exit interviews with the students 
@@ -161,8 +160,8 @@ and kept their end-of-semester portfolios for analysis.  Here are some of the th
 * **Attendance improved**<br>
 I was amazed to see that people actually showed up more with this new arrangement
 * **Engagement increased**<br>
-Students reported spending more time outside of class and worked harder on their programming assignments.  
-Class time was much more lively as students were much more proactive about asking how to solve problems 
+Students reported spending more time outside of class and worked harder on their programming assignments. Class
+time was much more lively as students were much more proactive about asking how to solve problems 
 with their programs.  I had as many as fifty students come to hacking sessions on Monday nights.
 * **Everyone took all of the tests**<br>
 Even though they weren't required, everyone showed up to take the exams, even though they were given 
@@ -209,7 +208,7 @@ some of my colleagues.  We had two long meetings the following semester in which
 the research and theory behind my approach.  Some questioned whether or not what I was doing was in violation 
 of the faculty handbook (it’s not as far as I can tell).  However, of the seven or eight people who attended 
 these meetings, three or so were intrigued and supportive of my efforts, three or so were either mildly or 
-strongly against my efforts, and on or two were on the fence.  I took the mixed reaction as a strong indication 
+strongly against my efforts, and one or two were on the fence.  I took the mixed reaction as a strong indication 
 that I’d hit on an excellent topic for research.
 
 ### 2009 Fall - 2011 Spring: Portfolios, Pre-Semester Questionnaires, and Weekly Self-Evaluations
@@ -223,10 +222,9 @@ in other sections of this portfolio.
 
 After being severely chastised by several colleagues in the fall of 2009 for implementing choose-your-own-grade (CYOG), 
 I became fearful about openly doing that research as an un-tenured faculty member. To be sure, while I was afraid 
-to put "choose-your-own-grade" explicitly in writing, nearly 4 out of 9 pages in [my Fall 2009 Syllabi]
-(https://github.com/morphatic/sis-portfolio/raw/master/supporting_materials/syllabi/2009_3/ISAT340Fall2009Syllabus.docx) 
-were spent explaining to students why grades were not good for them. The other parts of the syllabus focused on 
-how to produce an effective portfolio of work. In short, I spend my time teaching students how to recognize the
+to put "choose-your-own-grade" explicitly in writing, nearly 4 out of 9 pages in [my Fall 2009 Syllabi](https://github.com/morphatic/sis-portfolio/raw/master/supporting_materials/syllabi/2009_3/ISAT340Fall2009Syllabus.docx)
+were spent explaining to students why grades did not support their learning effectively. The other parts of the syllabus focused on 
+how to produce an effective portfolio of work. In short, I spent my time teaching students how to recognize the
 difference between good work and not-so-good work, and help them to develop a collection of artifacts that they
 could show to a classmate or potential employer to convince them of their new skills.
 
@@ -238,10 +236,11 @@ fixtures in my courses. I had a mechanism to jump-start my relationship with eac
 to be proactive about monitoring their own progress throughout the course. I built an automated system that would 
 send out the weekly self-evaluation along with several reminders to those who didn't complete it right away.
 
-I wanted my courses in Fall 2011 to match as close as possible the level of performance that I observed in the
+I wanted my courses in Fall 2011 to match as closely as possible the level of performance that I observed in the
 Spring 2009 semester when I first did CYOG. Unfortunately, the students' performance wasn't as strong as I had 
 hoped. To be clear, their performance was perfectly adequate and within normal limits compared to a "traditional"
-approach to teaching. However, they didn't show the same level of enthusiasm, and there wasn't the same degree
+approach to teaching. They continued to work in teams and build software projects that they presented to me and
+to their classmates. However, they didn't show the same level of enthusiasm, and there wasn't the same degree
 of creativity and passion that I had seen before.
 
 ### 2012 Spring: Introducing Expectancy-Value-Cost Theory
@@ -287,7 +286,7 @@ I also used this understanding to make classes more engaging.
 In 2011 Summer, I attended Agile2011, a major industry conference for the agile software development community in
 Salt Lake City. One of the keynote speakers was a researcher from UNC Chapel Hill named Barbara Fredrickson. Dr. 
 Fredrickson's field is positive psychology, and she was developing a theory that showed that cultivating a positive
-attitude had numerous benefits to one's cognitive, emotional, and physiological health. In [her book](https://amzn.to/2QC8DAd),
+attitude has numerous benefits to one's cognitive, emotional, and physiological health. In [her book](https://amzn.to/2QC8DAd),
 she describes it as the "broaden and build" theory, and it is the polar opposite of "fight or flight." In the book
 there is a relatively easy-to-use instrument that allows you to measure your "positivity ratio" at any given
 point in time. I implemented this instrument in Qualtrics and began delivering it to my students along with their 
@@ -307,8 +306,8 @@ their friends and families how to meditate as well. Students reported how they w
 negative thoughts and feelings were creeping into their consciousness throughout the day. The overall tenor of the 
 class became much more relaxed and enjoyable for everyone present. Of particular note, the 21 students in my GISAT 160
 section had an average response of 4.81 out of 5.0 on question #12 of the ISAT course evaluation: _The course helped
-me to gain an appreciation for the subject._ I think this is significant, and these results encouraged me to find 
-other ways to boost student well-being and motivation.
+me to gain an appreciation for the subject._ I think this is significant, particularly since this is a GenEd class that
+usually gets pretty low ratings, and these results encouraged me to find other ways to boost student well-being and motivation.
 
 ### 2013 Spring - 2014 Spring: Mastery vs. Performance Orientation
 
@@ -320,7 +319,7 @@ level students can have either a mastery-orientation or a performance-orientatio
 
 Students with a mastery-orientation are interested in learning for the sake of learning--i.e. they are intrinsically 
 motivated. Conversely, students with a performance-orientation are motivated by wanting to get high grades, or not 
-do relatively worse than other people in the class. Their learning tends to be more shallow and shorter-lived. There are
+perform relatively worse than other people in the class. Their learning tends to be more shallow and shorter-lived. There are
 things an instructor can do to encourage students to adopt a mastery-orientation, and also ways to de-emphasize
 facets of the class that lend to a performance-orientation.
 
@@ -381,7 +380,7 @@ Points were based roughly on how many hours students spent on the class, followi
 that time-on-task is the only reliable predictor of learning](https://files.eric.ed.gov/fulltext/ED282491.pdf). The
 thought process that led to the hours-to-points calculation was explained in detail in the syllabus.
 
-I hated it. The students didn't like it either. In the 2016 Spring, I tried it one more time, but it was still awful. 
+The students hated it. I didn't really like it either. In the 2016 Spring, I tried it one more time, but it was still awful. 
 **It took me two semesters to figure out that I had hit on exactly the [worst conditions for allowing students to synthesize 
 happiness](https://www.ted.com/talks/dan_gilbert_asks_why_are_we_happy)**. It turns out, nobody wants to know how 
 the sausage gets made, and that goes doubly for how grades are calculated. I was explaining my grading philosophy 
@@ -392,9 +391,8 @@ rather not have it explained. I didn't figure this out until the middle of the 2
 
 Given the failures of the past two semesters, I found myself back at the drawing board. 
 
-In [2016 Fall, I went back to CYOG with a newly explicated philosophy]
-(https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2016_3/2016_3_ISAT_340_0003_01_Syllabus.pdf) 
-because I hate it less than I hated the points-accumulation system.
+In [2016 Fall, I went back to CYOG with a newly explicated philosophy](https://github.com/morphatic/isat-portfolio/raw/master/supporting_materials/syllabi/2016_3/2016_3_ISAT_340_0003_01_Syllabus.pdf)
+because I disliked it less than I hated the points-accumulation system.
 
 ### 2017 Spring - Present: Explain Less. Expect More.
 
@@ -405,37 +403,24 @@ and managing their time.
 
 ![](/assets/semester_progress_chart.png)
 
-This chart represents the average student in my course this past spring. All of them did extremely well 
+This chart represents the average student in one of my 252 sections this past spring. All of them did extremely well 
 over the first 5-6 weeks when there was still a lot of handholding. However, mid-semester when I set them 
 loose to pursue the course material following different paths of their own choosing, their effort basically 
 flatlined. It did not pick up again until the end of the semester when they all realized they needed to turn 
 in work to get enough points to pass.
 
-**Although I am no longer using it at all, I still believe in CYOG.** I still believe that if all of our courses 
+**Although I am no longer using it at all, I still believe that CYOG could work with undergrads under the
+right conditions.** I still believe that if all of our courses
 operated according to its principles, that we would see greatly improved outcomes. Until I'm able to convince 
 everyone else, or move to a place that believes like I do, I'm going to have to search for a happy medium.
 
 ## Summary
 
-I’ve found that grades have many shortcomings, and as a result I attempted a bold and controversial approach 
-to teaching a course without them.  This demonstrates both my creativity and my courage as a professor and as a 
-researcher.  It also demonstrates that I embrace that element of the ISAT identity which prides itself on using 
-innovative pedagogy.  There are many important questions still to answer in this line of research, for example, 
-determining what constitutes a meaningful outcome for a course in the absence of traditional methods of 
-evaluation.  I look forward to continuing these explorations in collaboration with my ISAT colleagues in the 
-future, and with their support, implementing meaningful changes that are catalysts for student motivation and 
-engagement as appropriate.
-
-
-
-
-## Summary
-
-Taken as a whole, I believe this evidence demonstrates that _**I am an excellent teacher**_.  Beginning with my 
-first job in Japan and continuing through the present, I have been committed to my craft and energized by the 
-challenge and the opportunity to help students mature and develop as people and as professionals, becoming 
-enlightened citizens who lead meaningful and productive lives.  Furthermore, not only have I improved as an 
-individual, but I have become known as an expert on pedagogy within JMU and internationally, and am frequently 
-consulted by colleagues and asked to present at meetings, workshops, and symposia.  My efforts therefore have 
-resulted in an overall increase in the quality of teaching at JMU, particularly within ISAT.
+Taken as a whole, I believe this evidence demonstrates that _**I am an excellent teacher**_.  In every semester,
+I have been committed to my craft and energized by the challenge and the opportunity to help students mature and
+develop as people and as professionals, becoming enlightened citizens who lead meaningful and productive lives.
+Furthermore, not only have I improved as an individual, but I have become known as an expert on pedagogy within
+JMU and internationally, and am frequently consulted by colleagues and asked to present at meetings, workshops,
+and symposia.  My efforts therefore have resulted in an overall increase in the quality of teaching at JMU,
+particularly within ISAT.
 
