@@ -114,3 +114,11 @@ If grades can stimulate fear and anxiety in students, I hypothesize that the pra
 ## The History of Grades
 
 The last facet of my search that I’ll share here is my investigation into the history of grades.  Grades are such a fact-of-life in today’s schools that it seems that they must have always existed.  Quite to the contrary, grades, as currently used, didn’t gain widespread acceptance and use until the 19th century.  Reading accounts of the epistemological discussions of academics from the 17th to the 19th century in the US reveals that they wrestled with many of the same issues that I have brought up here.  It is easy for us to accept the current practice with a blind faith that since everybody uses grades, their validity and worth must have been proven at some point in our past.  I wanted to believe that someone somewhere had done the due diligence to establish grades as an effective and worthwhile practice in education.  As it turns out, it has never been done.  For excellent accounts I refer you to Mary Lovett Smallwood’s (1935) _An Historical Study of Examinations and Grading Systems in Early American Universities_, Laska and Juarez’ (1991) _Grading and Marking in American Schools: Two Centuries of Debate_, Finkelstein’s (1913) _The Marking System in Theory and Practice_, or the short, amusing and accessible address by Louise Witmer Cureton (1959) "The History of Grading Practices."
+
+## Summary
+
+Taken all together, I believe the above constitutes a fairly robust argument for abandoning grades as a tool of teaching.
+The problem, of course, is that the practice of using grades is deeply embedded in our society, it is difficult for
+people to conceive of alternatives. I have worked for years in attempt to come up with viable alternatives, and have
+met with some successes, but overall, not as much as I would have liked. I am very grateful to be in a department
+like ISAT at a school like JMU where such explorations are not only possible, but lauded and encouraged!

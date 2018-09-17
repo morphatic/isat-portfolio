@@ -20,6 +20,7 @@
     * [Courseware](/teaching/courseware.md)
     * [Choose-Your-Own-Grade](/teaching/cyog.md)
     * [Pre-Semester Questionnaires](/teaching/questionnaires.md)
+    * [Weekly Self-Evalutions](/teaching/self-evals.md)
     * [The Fueled Project](/teaching/fueled.md)
     * [Study Abroad](/teaching/abroad.md)
     * [IGNITE! & HCO3](/teaching/ignite.md)
