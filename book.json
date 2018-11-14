@@ -6,12 +6,21 @@
         "toggle2",
         "back-to-top-button",
         "ga",
-        "offline",
+        "analytics",
         "katex"
     ],
     "pluginsConfig": {
         "ga": {
             "token": "UA-763196-11"
+        },
+        "analytics": {
+            "context": [
+                {
+                    "vendor": "google",
+                    "token": "UA-763196-12",
+                    "base": "https://portfolio.morphatic.com"
+                }
+            ]
         }
     },
     "pdf": {
